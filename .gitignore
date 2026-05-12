@@ -1,0 +1,17 @@
+.vscode
+*.egg-info
+.python-version
+*.pyc
+notebooks/data
+.venv
+examples
+wandb
+**.ckpt
+**/lightning_logs
+cache
+*.cpython-*.so
+**/pyclaw.log
+notebooks/_output
+**/__pycache__
+.ruff_cache
+.pytest_cache
