@@ -29,7 +29,6 @@ from traffic_models.nn.asm import asm_initial_guess
 from traffic_models.nn.flows_torch import (
     ConvexVelocityFlow,
     GreenshieldsFlow,
-    MLPFlow,
     TriangularFlow,
     torch_implem_from_numpy,
 )
@@ -132,9 +131,6 @@ def windowed_w4DVAR(
         )
         # reset flow parameters
         torch_flow = torch_implem_from_numpy(flow, frozen=not learn_flow).to(device)
-        if False:
-            # torch_flow = ConvexVelocityFlow(hidden_features=32).to(device)
-            torch_flow = MLPFlow(hidden_features=32).to(device)
         with torch.no_grad():
             if forecast:
                 if isinstance(torch_flow, ARZFlow):

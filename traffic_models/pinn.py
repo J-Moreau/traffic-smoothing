@@ -151,7 +151,7 @@ def train_pinn(
     # initialise with a constant field so we always have a clean fallback
     with torch.no_grad():
         v_last, rho_last = _evaluate_on_grid(net, grid, x_max, t_max, device)
-
+    best_loss = float("inf")
     for epoch in range(conf.epochs):
         optimizer = adam if epoch < conf.n_epochs_adam else lbfgs
         # L-BFGS requires a closure; also used for Adam for consistency
@@ -185,8 +185,9 @@ def train_pinn(
         optimizer.step(closure)
 
         total_loss = conf.observation_weight * loss_obs + conf.physics_weight * (loss_continuity + loss_momentum)
-        if torch.isnan(total_loss):
-            print(f"NaN loss at epoch {epoch + 1}, stopping early.")
+        best_loss = total_loss.item() if epoch == 0 else min(best_loss, total_loss.item())
+        if torch.isnan(total_loss) or (epoch >= conf.n_epochs_adam and total_loss > 2*best_loss):
+            print(f"Exploding loss at epoch {epoch + 1}, stopping early.")
             break
 
         log_dict: dict = {

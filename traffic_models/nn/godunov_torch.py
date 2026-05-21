@@ -5,7 +5,7 @@ from typing import Callable
 import torch
 import torch.linalg
 
-from traffic_models.nn.flows_torch import CustomVelocityFlow, GreenshieldsFlow
+from traffic_models.nn.flows_torch import ConvexVelocityFlow, GreenshieldsFlow
 
 
 def godunov_step(
@@ -145,12 +145,4 @@ def godunov_jacobian(
         ),
         rho,
         create_graph=True,
-    )
-
-
-def convex_godunov_jacobian(
-    v: torch.Tensor, flow: CustomVelocityFlow, v_c: float, dt: float, dx: float
-) -> torch.Tensor:
-    return torch.autograd.functional.jacobian(
-        lambda v: convex_godunov_step(v, flow, v_c, dt, dx), v, create_graph=True
     )

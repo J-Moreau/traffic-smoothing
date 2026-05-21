@@ -318,23 +318,23 @@ if __name__ == "__main__":
 
     # # ABLATION SWEEP
     sweep_name = "itsc_ablation_v3"
-    sweep_init = {
-        "fourdvar.fundamental_diagram": ["ARZPiecewiseQuadratic"],
-        "fourdvar.solver": ["rusanov"],
-        "data.probe_fraction": [0.1], 
-        "data.boundary_fraction": [1.0],
-        "fourdvar.init": ["rts", "forward_fill"],
-        "seed": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
-    }
-    run_sweep(sweep_name, mobile_century_conf, sweep_init, run_baselines=False) 
+    # sweep_init = {
+    #     "fourdvar.fundamental_diagram": ["ARZPiecewiseQuadratic"],
+    #     "fourdvar.solver": ["rusanov"],
+    #     "data.probe_fraction": [0.1], 
+    #     "data.boundary_fraction": [1.0],
+    #     "fourdvar.init": ["rts", "forward_fill"],
+    #     "seed": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+    # }
+    # run_sweep(sweep_name, mobile_century_conf, sweep_init, run_baselines=False) 
 
-    sweep_arz_fd = {
-        "fourdvar.fundamental_diagram": ["ARZQuadraticLinear"],
-        "fourdvar.solver": ["rusanov"],
-        "data.probe_fraction": [0.1],
-        "seed": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
-    }
-    run_sweep(sweep_name, mobile_century_conf, sweep_arz_fd, run_baselines=False) 
+    # sweep_arz_fd = {
+    #     "fourdvar.fundamental_diagram": ["ARZQuadraticLinear"],
+    #     "fourdvar.solver": ["rusanov"],
+    #     "data.probe_fraction": [0.1],
+    #     "seed": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+    # }
+    # run_sweep(sweep_name, mobile_century_conf, sweep_arz_fd, run_baselines=False) 
     # sweep_solver = {
     #     "fourdvar.fundamental_diagram": ["LWRPiecewiseQuadratic"],
     #     "fourdvar.solver": ["rusanov"],
@@ -352,16 +352,16 @@ if __name__ == "__main__":
     # }
     # run_sweep(sweep_name, mobile_century_conf, sweep_solver, run_baselines=False) 
 
-    # sweep_arz_fd = {
-    #     "fourdvar.fundamental_diagram": ["ARZGreenshields"],
-    #     "fourdvar.solver": ["rusanov"],
-    #     "fourdvar.velocity_model_variance": [0.1],
-    #     "fourdvar.learn_flow": [True],
-    #     "fourdvar.n_windows": [3],
-    #     "data.probe_fraction": [0.1],
-    #     "seed": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
-    # }
-    # run_sweep(sweep_name, mobile_century_conf, sweep_arz_fd, run_baselines=False)
+    sweep_arz_fd = {
+        "fourdvar.fundamental_diagram": ["ARZGreenshields"],
+        "fourdvar.solver": ["rusanov"],
+        "fourdvar.velocity_model_variance": [0.01],
+        "fourdvar.learn_flow": [True],
+        "fourdvar.n_windows": [3],
+        "data.probe_fraction": [0.1],
+        "seed": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
+    }
+    run_sweep(sweep_name, mobile_century_conf, sweep_arz_fd, run_baselines=False)
 
     # sweep_ramp = {
     #     "fourdvar.fundamental_diagram": ["ARZPiecewiseQuadratic"],
