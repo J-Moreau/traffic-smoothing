@@ -357,7 +357,7 @@ if __name__ == "__main__":
         "fourdvar.solver": ["rusanov"],
         "fourdvar.velocity_model_variance": [0.01],
         "fourdvar.learn_flow": [True],
-        "fourdvar.n_windows": [3],
+        "fourdvar.n_windows": [1],
         "data.probe_fraction": [0.1],
         "seed": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9],
     }

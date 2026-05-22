@@ -1,0 +1,2558 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d19" for="edge" attr.name="bridge" attr.type="string" />
+  <key id="d18" for="edge" attr.name="geometry" attr.type="string" />
+  <key id="d17" for="edge" attr.name="length" attr.type="string" />
+  <key id="d16" for="edge" attr.name="reversed" attr.type="string" />
+  <key id="d15" for="edge" attr.name="ref" attr.type="string" />
+  <key id="d14" for="edge" attr.name="oneway" attr.type="string" />
+  <key id="d13" for="edge" attr.name="name" attr.type="string" />
+  <key id="d12" for="edge" attr.name="maxspeed" attr.type="string" />
+  <key id="d11" for="edge" attr.name="lanes" attr.type="string" />
+  <key id="d10" for="edge" attr.name="highway" attr.type="string" />
+  <key id="d9" for="edge" attr.name="osmid" attr.type="string" />
+  <key id="d8" for="node" attr.name="ref" attr.type="string" />
+  <key id="d7" for="node" attr.name="highway" attr.type="string" />
+  <key id="d6" for="node" attr.name="street_count" attr.type="string" />
+  <key id="d5" for="node" attr.name="x" attr.type="string" />
+  <key id="d4" for="node" attr.name="y" attr.type="string" />
+  <key id="d3" for="graph" attr.name="simplified" attr.type="string" />
+  <key id="d2" for="graph" attr.name="crs" attr.type="string" />
+  <key id="d1" for="graph" attr.name="created_with" attr.type="string" />
+  <key id="d0" for="graph" attr.name="created_date" attr.type="string" />
+  <graph edgedefault="directed">
+    <node id="32785488">
+      <data key="d4">37.564172</data>
+      <data key="d5">-122.0390232</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="32816469">
+      <data key="d4">37.5625511</data>
+      <data key="d5">-122.0376606</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="32816479">
+      <data key="d4">37.5288095</data>
+      <data key="d5">-122.0006144</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="32816481">
+      <data key="d4">37.5202201</data>
+      <data key="d5">-121.9836887</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="33144561">
+      <data key="d4">37.6406672</data>
+      <data key="d5">-122.090709</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">27</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="33144662">
+      <data key="d4">37.6485624</data>
+      <data key="d5">-122.0966883</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">27</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="33153573">
+      <data key="d4">37.6480168</data>
+      <data key="d5">-122.0959406</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="33154450">
+      <data key="d4">37.6279789</data>
+      <data key="d5">-122.0816779</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">26</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="33154454">
+      <data key="d4">37.6342685</data>
+      <data key="d5">-122.0861328</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="33154458">
+      <data key="d4">37.634827</data>
+      <data key="d5">-122.0868459</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">26</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="33154553">
+      <data key="d4">37.6279931</data>
+      <data key="d5">-122.0819878</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="33155431">
+      <data key="d4">37.6211916</data>
+      <data key="d5">-122.0771415</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">25</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="33155435">
+      <data key="d4">37.6162295</data>
+      <data key="d5">-122.07358</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="33155441">
+      <data key="d4">37.6201975</data>
+      <data key="d5">-122.0761106</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="52982404">
+      <data key="d4">37.6004912</data>
+      <data key="d5">-122.0620222</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="52982439">
+      <data key="d4">37.5828263</data>
+      <data key="d5">-122.0500015</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">22</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="52990182">
+      <data key="d4">37.6088572</data>
+      <data key="d5">-122.068317</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">24</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="52991329">
+      <data key="d4">37.5660329</data>
+      <data key="d5">-122.0413267</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">21</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="53002300">
+      <data key="d4">37.5504613</data>
+      <data key="d5">-122.0255691</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="53004575">
+      <data key="d4">37.6016219</data>
+      <data key="d5">-122.0631684</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">23</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="53007880">
+      <data key="d4">37.5979699</data>
+      <data key="d5">-122.0605768</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="53013547">
+      <data key="d4">37.5243041</data>
+      <data key="d5">-121.9910997</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="53016700">
+      <data key="d4">37.5437682</data>
+      <data key="d5">-122.020506</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">19</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="257360278">
+      <data key="d4">37.5605818</data>
+      <data key="d5">-122.0354495</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="257360302">
+      <data key="d4">37.5664938</data>
+      <data key="d5">-122.0414861</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="257362967">
+      <data key="d4">37.5758191</data>
+      <data key="d5">-122.0474393</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="257389899">
+      <data key="d4">37.6520671</data>
+      <data key="d5">-122.0989526</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="257389901">
+      <data key="d4">37.652661</data>
+      <data key="d5">-122.0990073</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">28</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="257391140">
+      <data key="d4">37.6110353</data>
+      <data key="d5">-122.0695611</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="257391915">
+      <data key="d4">37.5754603</data>
+      <data key="d5">-122.0470139</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">22</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="257394319">
+      <data key="d4">37.5495409</data>
+      <data key="d5">-122.0251737</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">19</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="257394434">
+      <data key="d4">37.5477925</data>
+      <data key="d5">-122.0235655</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="257394436">
+      <data key="d4">37.5454846</data>
+      <data key="d5">-122.0221452</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="257395021">
+      <data key="d4">37.5318913</data>
+      <data key="d5">-122.0063014</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">17</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="257395023">
+      <data key="d4">37.5320525</data>
+      <data key="d5">-122.0061082</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="257395031">
+      <data key="d4">37.5305866</data>
+      <data key="d5">-122.0034734</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="257395058">
+      <data key="d4">37.5279709</data>
+      <data key="d5">-121.9986032</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">17</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="257395063">
+      <data key="d4">37.5272149</data>
+      <data key="d5">-121.9975331</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="257395232">
+      <data key="d4">37.5244528</data>
+      <data key="d5">-121.9919082</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">16</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="257395396">
+      <data key="d4">37.5218288</data>
+      <data key="d5">-121.9865805</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="257395440">
+      <data key="d4">37.5230499</data>
+      <data key="d5">-121.9886083</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="257395447">
+      <data key="d4">37.5202615</data>
+      <data key="d5">-121.9833275</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">16</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="257395657">
+      <data key="d4">37.5103118</data>
+      <data key="d5">-121.9712732</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">15</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="257395669">
+      <data key="d4">37.5100988</data>
+      <data key="d5">-121.9706305</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="295570836">
+      <data key="d4">37.5603566</data>
+      <data key="d5">-122.034907</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">21</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="601720947">
+      <data key="d4">37.5426375</data>
+      <data key="d5">-122.0199767</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="720615761">
+      <data key="d4">37.595308</data>
+      <data key="d5">-122.0583625</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">23</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="720616987">
+      <data key="d4">37.5953795</data>
+      <data key="d5">-122.0587313</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="720618433">
+      <data key="d4">37.6038059</data>
+      <data key="d5">-122.0643875</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">24</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="721472846">
+      <data key="d4">37.5817555</data>
+      <data key="d5">-122.0492352</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1080537030">
+      <data key="d4">37.5786399</data>
+      <data key="d5">-122.0483944</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1243945808">
+      <data key="d4">37.6432498</data>
+      <data key="d5">-122.0928828</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="3974638968">
+      <data key="d4">37.6039832</data>
+      <data key="d5">-122.0648526</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="3974818867">
+      <data key="d4">37.6411023</data>
+      <data key="d5">-122.0913517</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="3974818880">
+      <data key="d4">37.6473221</data>
+      <data key="d5">-122.0954686</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="8672211521">
+      <data key="d4">37.6270282</data>
+      <data key="d5">-122.0810041</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="660038421">
+      <data key="d4">37.5782531</data>
+      <data key="d5">-122.0472117</data>
+      <data key="d7">traffic_signals</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="9516533155">
+      <data key="d4">37.5777063</data>
+      <data key="d5">-122.0461453</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="32784720">
+      <data key="d4">37.5639732</data>
+      <data key="d5">-122.0380498</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="33144364">
+      <data key="d4">37.6483304</data>
+      <data key="d5">-122.0920363</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">26B</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="33144374">
+      <data key="d4">37.6471468</data>
+      <data key="d5">-122.0926232</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">26A</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="33144469">
+      <data key="d4">37.6422037</data>
+      <data key="d5">-122.0953872</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="33144473">
+      <data key="d4">37.6467776</data>
+      <data key="d5">-122.0926173</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="33144905">
+      <data key="d4">37.6419757</data>
+      <data key="d5">-122.0914285</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="33144974">
+      <data key="d4">37.6459378</data>
+      <data key="d5">-122.0929086</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="33154394">
+      <data key="d4">37.6441322</data>
+      <data key="d5">-122.0940491</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="33154542">
+      <data key="d4">37.6332643</data>
+      <data key="d5">-122.0852398</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="33155422">
+      <data key="d4">37.6178558</data>
+      <data key="d5">-122.0756927</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="33155445">
+      <data key="d4">37.6180169</data>
+      <data key="d5">-122.075781</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="33155470">
+      <data key="d4">37.6178039</data>
+      <data key="d5">-122.0730713</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="52978820">
+      <data key="d4">37.6573682</data>
+      <data key="d5">-122.0991991</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="52978838">
+      <data key="d4">37.6566431</data>
+      <data key="d5">-122.1010407</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="52982389">
+      <data key="d4">37.5989975</data>
+      <data key="d5">-122.059142</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="52990207">
+      <data key="d4">37.6057307</data>
+      <data key="d5">-122.0681478</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="52991332">
+      <data key="d4">37.5630058</data>
+      <data key="d5">-122.0398851</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="52994613">
+      <data key="d4">37.5281202</data>
+      <data key="d5">-122.0049243</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="52994651">
+      <data key="d4">37.5208147</data>
+      <data key="d5">-121.9890419</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="52998018">
+      <data key="d4">37.6562778</data>
+      <data key="d5">-122.1020004</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="53001524">
+      <data key="d4">37.5461228</data>
+      <data key="d5">-122.0241903</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="53002311">
+      <data key="d4">37.5483251</data>
+      <data key="d5">-122.0223084</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="53002346">
+      <data key="d4">37.5483129</data>
+      <data key="d5">-122.0215764</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="53004584">
+      <data key="d4">37.5987092</data>
+      <data key="d5">-122.0630433</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="53015559">
+      <data key="d4">37.5458099</data>
+      <data key="d5">-122.023486</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="53069533">
+      <data key="d4">37.6057866</data>
+      <data key="d5">-122.0684916</data>
+      <data key="d7">traffic_signals</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="257390816">
+      <data key="d4">37.6176427</data>
+      <data key="d5">-122.0764164</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="257395104">
+      <data key="d4">37.5288328</data>
+      <data key="d5">-122.0034155</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="257395292">
+      <data key="d4">37.5213651</data>
+      <data key="d5">-121.9884569</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="257395446">
+      <data key="d4">37.5228356</data>
+      <data key="d5">-121.987288</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="295570233">
+      <data key="d4">37.5600109</data>
+      <data key="d5">-122.0411678</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="295570265">
+      <data key="d4">37.5602811</data>
+      <data key="d5">-122.0413019</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="341668907">
+      <data key="d4">37.563211</data>
+      <data key="d5">-122.0388129</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="343659039">
+      <data key="d4">37.6174378</data>
+      <data key="d5">-122.0731477</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="490122587">
+      <data key="d4">37.5300941</data>
+      <data key="d5">-122.0019111</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="490122607">
+      <data key="d4">37.5295379</data>
+      <data key="d5">-122.0025949</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="547963197">
+      <data key="d4">37.6464354</data>
+      <data key="d5">-122.095466</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="599818605">
+      <data key="d4">37.6069406</data>
+      <data key="d5">-122.0661391</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="601720953">
+      <data key="d4">37.5470031</data>
+      <data key="d5">-122.0225384</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="601724126">
+      <data key="d4">37.6584782</data>
+      <data key="d5">-122.1023991</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="601724127">
+      <data key="d4">37.6533102</data>
+      <data key="d5">-122.099942</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="601724128">
+      <data key="d4">37.6544531</data>
+      <data key="d5">-122.0998838</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="601724136">
+      <data key="d4">37.6562905</data>
+      <data key="d5">-122.1017396</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d6">4</data>
+    </node>
+    <node id="601724137">
+      <data key="d4">37.6565784</data>
+      <data key="d5">-122.1012796</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="610811229">
+      <data key="d4">37.6056732</data>
+      <data key="d5">-122.0685814</data>
+      <data key="d7">traffic_signals</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="610811997">
+      <data key="d4">37.5981984</data>
+      <data key="d5">-122.0650143</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="610811998">
+      <data key="d4">37.598394</data>
+      <data key="d5">-122.0627377</data>
+      <data key="d7">traffic_signals</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="660036207">
+      <data key="d4">37.579465</data>
+      <data key="d5">-122.049758</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="660036211">
+      <data key="d4">37.5798335</data>
+      <data key="d5">-122.0505736</data>
+      <data key="d7">traffic_signals</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="720619307">
+      <data key="d4">37.6087848</data>
+      <data key="d5">-122.0676982</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="720626971">
+      <data key="d4">37.6072572</data>
+      <data key="d5">-122.0650297</data>
+      <data key="d7">traffic_signals</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="721672724">
+      <data key="d4">37.5655935</data>
+      <data key="d5">-122.0370198</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="721672725">
+      <data key="d4">37.5645813</data>
+      <data key="d5">-122.037749</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="725437303">
+      <data key="d4">37.5489604</data>
+      <data key="d5">-122.0210646</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="725437321">
+      <data key="d4">37.5463471</data>
+      <data key="d5">-122.0232091</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="725437331">
+      <data key="d4">37.5449311</data>
+      <data key="d5">-122.024299</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="725438834">
+      <data key="d4">37.544657</data>
+      <data key="d5">-122.0243313</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="1078563206">
+      <data key="d4">37.6072372</data>
+      <data key="d5">-122.0656324</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="1316708083">
+      <data key="d4">37.657219</data>
+      <data key="d5">-122.0992782</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="1316708210">
+      <data key="d4">37.6562033</data>
+      <data key="d5">-122.1019583</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="1316708251">
+      <data key="d4">37.6565696</data>
+      <data key="d5">-122.1009927</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="1316773653">
+      <data key="d4">37.5322831</data>
+      <data key="d5">-122.0015958</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="1318424101">
+      <data key="d4">37.5984525</data>
+      <data key="d5">-122.0632812</data>
+      <data key="d7">traffic_signals</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="1318438168">
+      <data key="d4">37.6061321</data>
+      <data key="d5">-122.0680999</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="1318455838">
+      <data key="d4">37.6175269</data>
+      <data key="d5">-122.0757897</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="1642975892">
+      <data key="d4">37.641418</data>
+      <data key="d5">-122.0954763</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">26A</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1642975894">
+      <data key="d4">37.6438397</data>
+      <data key="d5">-122.093143</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1642975898">
+      <data key="d4">37.6446459</data>
+      <data key="d5">-122.0940126</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="1666847604">
+      <data key="d4">37.5244823</data>
+      <data key="d5">-121.9862944</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="1666847606">
+      <data key="d4">37.5235094</data>
+      <data key="d5">-121.9870602</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="1673750673">
+      <data key="d4">37.5475042</data>
+      <data key="d5">-122.0222799</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="1678683820">
+      <data key="d4">37.6350482</data>
+      <data key="d5">-122.1026264</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d8">25B</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1678683823">
+      <data key="d4">37.6354079</data>
+      <data key="d5">-122.0993602</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="1678683886">
+      <data key="d4">37.6359255</data>
+      <data key="d5">-122.0994073</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1684055114">
+      <data key="d4">37.6296299</data>
+      <data key="d5">-122.0826217</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1684055115">
+      <data key="d4">37.6298664</data>
+      <data key="d5">-122.0835347</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1684055185">
+      <data key="d4">37.6310117</data>
+      <data key="d5">-122.0836642</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1684055213">
+      <data key="d4">37.6315146</data>
+      <data key="d5">-122.0806647</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="1684055215">
+      <data key="d4">37.631339</data>
+      <data key="d5">-122.0846115</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1684055224">
+      <data key="d4">37.6315354</data>
+      <data key="d5">-122.0837338</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="1684055230">
+      <data key="d4">37.6315906</data>
+      <data key="d5">-122.0852586</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="1684055233">
+      <data key="d4">37.6315473</data>
+      <data key="d5">-122.0839984</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1684055239">
+      <data key="d4">37.6316788</data>
+      <data key="d5">-122.0877419</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="1684055286">
+      <data key="d4">37.6319331</data>
+      <data key="d5">-122.0850339</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1684055401">
+      <data key="d4">37.6334284</data>
+      <data key="d5">-122.0861241</data>
+      <data key="d7">motorway_junction</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="1684084805">
+      <data key="d4">37.6175159</data>
+      <data key="d5">-122.0717492</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="2230688700">
+      <data key="d4">37.6313721</data>
+      <data key="d5">-122.0811027</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="2230688708">
+      <data key="d4">37.6314531</data>
+      <data key="d5">-122.0835111</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="2230688731">
+      <data key="d4">37.6314915</data>
+      <data key="d5">-122.0852013</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="2230688741">
+      <data key="d4">37.6315601</data>
+      <data key="d5">-122.0883226</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="2408972349">
+      <data key="d4">37.5624572</data>
+      <data key="d5">-122.039261</data>
+      <data key="d7">traffic_signals</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="3679821270">
+      <data key="d4">37.522107</data>
+      <data key="d5">-121.9879948</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="3958520250">
+      <data key="d4">37.6175248</data>
+      <data key="d5">-122.0757002</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="3958737417">
+      <data key="d4">37.5308429</data>
+      <data key="d5">-122.001573</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="3974638964">
+      <data key="d4">37.5973524</data>
+      <data key="d5">-122.0574119</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="3974717404">
+      <data key="d4">37.6175954</data>
+      <data key="d5">-122.075074</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="3974818866">
+      <data key="d4">37.6386773</data>
+      <data key="d5">-122.0970332</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="5058029099">
+      <data key="d4">37.5796452</data>
+      <data key="d5">-122.0505523</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="7110956589">
+      <data key="d4">37.5987961</data>
+      <data key="d5">-122.0608767</data>
+      <data key="d6">1</data>
+    </node>
+    <node id="10603580871">
+      <data key="d4">37.6564475</data>
+      <data key="d5">-122.1011966</data>
+      <data key="d6">3</data>
+    </node>
+    <node id="13264636193">
+      <data key="d4">37.626835</data>
+      <data key="d5">-122.080972</data>
+      <data key="d6">1</data>
+    </node>
+    <edge source="32785488" target="257360302" id="0">
+      <data key="d9">394391946</data>
+      <data key="d10">motorway</data>
+      <data key="d11">4</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">337.3079084009581</data>
+    </edge>
+    <edge source="32816469" target="257360278" id="0">
+      <data key="d9">4958699</data>
+      <data key="d10">motorway</data>
+      <data key="d11">4</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">293.1467409283495</data>
+    </edge>
+    <edge source="32816479" target="257395063" id="0">
+      <data key="d9">821839347</data>
+      <data key="d10">motorway</data>
+      <data key="d11">4</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">324.4920283312182</data>
+      <data key="d18">LINESTRING (-122.0006144 37.5288095, -121.9998534 37.5283974, -121.9990498 37.5279756, -121.9982771 37.5275866, -121.9975331 37.5272149)</data>
+    </edge>
+    <edge source="32816481" target="257395657" id="0">
+      <data key="d9">[394433088, 394433089, 1343740301]</data>
+      <data key="d10">motorway</data>
+      <data key="d11">['4', '5']</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">1553.790369872816</data>
+      <data key="d18">LINESTRING (-121.9836887 37.5202201, -121.9832782 37.5199593, -121.9828899 37.5196872, -121.9824177 37.5193143, -121.9741618 37.5126382, -121.9717813 37.5107189, -121.9712732 37.5103118)</data>
+    </edge>
+    <edge source="33144561" target="3974818880" id="0">
+      <data key="d9">156115060</data>
+      <data key="d10">motorway</data>
+      <data key="d11">3</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">850.4906073626895</data>
+      <data key="d18">LINESTRING (-122.090709 37.6406672, -122.092121 37.6425969, -122.0935533 37.6445551, -122.0941112 37.6453366, -122.0950017 37.6466236, -122.0954686 37.6473221)</data>
+    </edge>
+    <edge source="33144561" target="33144905" id="0">
+      <data key="d9">156124114</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">2</data>
+      <data key="d12">65 mph</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">160.4226114311569</data>
+      <data key="d18">LINESTRING (-122.090709 37.6406672, -122.0907101 37.6408323, -122.0908191 37.6410242, -122.0910337 37.6413708, -122.0912106 37.6416627, -122.0914285 37.6419757)</data>
+    </edge>
+    <edge source="33144662" target="1243945808" id="0">
+      <data key="d9">[394475532, 98969782, 1452280159]</data>
+      <data key="d10">motorway</data>
+      <data key="d11">['3', '4']</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">679.2456076519187</data>
+      <data key="d18">LINESTRING (-122.0966883 37.6485624, -122.0965361 37.6483515, -122.0952163 37.6465408, -122.0949412 37.6461425, -122.0942641 37.6452538, -122.0936687 37.6444192, -122.0928828 37.6432498)</data>
+    </edge>
+    <edge source="33144662" target="547963197" id="0">
+      <data key="d9">394475539</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">2</data>
+      <data key="d12">65 mph</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">260.7120271550597</data>
+      <data key="d18">LINESTRING (-122.0966883 37.6485624, -122.0966435 37.6483594, -122.0965054 37.6481402, -122.0960598 37.6474597, -122.0958719 37.6471271, -122.095466 37.6464354)</data>
+    </edge>
+    <edge source="33153573" target="257389901" id="0">
+      <data key="d9">[1445731044, 394475534]</data>
+      <data key="d10">motorway</data>
+      <data key="d11">['6', '5']</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">583.152145000252</data>
+      <data key="d18">LINESTRING (-122.0959406 37.6480168, -122.0960729 37.6481839, -122.0964974 37.6487199, -122.0966685 37.6489654, -122.0968246 37.6491893, -122.0971599 37.6496883, -122.0975206 37.6502465, -122.0989249 37.6525272, -122.0990073 37.652661)</data>
+    </edge>
+    <edge source="33154450" target="33154454" id="0">
+      <data key="d9">[394469156, 929573413, 953298492]</data>
+      <data key="d10">motorway</data>
+      <data key="d11">['3', '4']</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">801.9025377769974</data>
+      <data key="d18">LINESTRING (-122.0816779 37.6279789, -122.0842901 37.631628, -122.0843539 37.6317171, -122.0844258 37.6318175, -122.0861328 37.6342685)</data>
+    </edge>
+    <edge source="33154450" target="1684055114" id="0">
+      <data key="d9">394469160</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">201.8791400237847</data>
+      <data key="d18">LINESTRING (-122.0816779 37.6279789, -122.0818508 37.6283932, -122.0826217 37.6296299)</data>
+    </edge>
+    <edge source="33154454" target="33144561" id="0">
+      <data key="d9">394475529</data>
+      <data key="d10">motorway</data>
+      <data key="d11">4</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">817.685768469033</data>
+    </edge>
+    <edge source="33154458" target="33154553" id="0">
+      <data key="d9">[1452258497, 394469157]</data>
+      <data key="d10">motorway</data>
+      <data key="d11">['3', '4']</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">872.0514315769461</data>
+      <data key="d18">LINESTRING (-122.0868459 37.634827, -122.0848655 37.6320296, -122.0846679 37.6317523, -122.084263 37.6311883, -122.0822449 37.6283644, -122.0819878 37.6279931)</data>
+    </edge>
+    <edge source="33154458" target="1684055401" id="0">
+      <data key="d9">156115096</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">168.71484796533392</data>
+      <data key="d18">LINESTRING (-122.0868459 37.634827, -122.0867727 37.6345406, -122.0861241 37.6334284)</data>
+    </edge>
+    <edge source="33154553" target="33155431" id="0">
+      <data key="d9">394461944</data>
+      <data key="d10">motorway</data>
+      <data key="d11">4</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">868.4168441197354</data>
+    </edge>
+    <edge source="33155431" target="33155435" id="0">
+      <data key="d9">394461948</data>
+      <data key="d10">motorway</data>
+      <data key="d11">3</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">634.6988045499281</data>
+      <data key="d18">LINESTRING (-122.0771415 37.6211916, -122.0753974 37.6187803, -122.07358 37.6162295)</data>
+    </edge>
+    <edge source="33155431" target="33155445" id="0">
+      <data key="d9">[156119537, 394461949, 417289887]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['1', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">377.53990413230986</data>
+      <data key="d18">LINESTRING (-122.0771415 37.6211916, -122.0766894 37.6204032, -122.0762832 37.6196981, -122.0760448 37.6192636, -122.0759832 37.6191438, -122.075927 37.6190249, -122.0758626 37.6188925, -122.075834 37.6188089, -122.0758053 37.6186846, -122.0757825 37.618554, -122.0757733 37.6184403, -122.0757684 37.6183056, -122.075781 37.6180169)</data>
+    </edge>
+    <edge source="33155435" target="52990182" id="0">
+      <data key="d9">[394461948, 985836693]</data>
+      <data key="d10">motorway</data>
+      <data key="d11">['3', '4']</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">941.7680823590665</data>
+      <data key="d18">LINESTRING (-122.07358 37.6162295, -122.0717201 37.6136281, -122.0712695 37.6130055, -122.0712585 37.6129901, -122.068979 37.6097873, -122.068317 37.6088572)</data>
+    </edge>
+    <edge source="33155441" target="8672211521" id="0">
+      <data key="d9">394461945</data>
+      <data key="d10">motorway</data>
+      <data key="d11">4</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">873.2965721646574</data>
+      <data key="d18">LINESTRING (-122.0761106 37.6201975, -122.0772509 37.6217694, -122.0810041 37.6270282)</data>
+    </edge>
+    <edge source="52982404" target="720618433" id="0">
+      <data key="d9">274474201</data>
+      <data key="d10">motorway</data>
+      <data key="d11">5</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">423.4651291315138</data>
+      <data key="d18">LINESTRING (-122.0620222 37.6004912, -122.0633671 37.6023098, -122.0643875 37.6038059)</data>
+    </edge>
+    <edge source="52982439" target="1080537030" id="0">
+      <data key="d9">47232548</data>
+      <data key="d10">motorway</data>
+      <data key="d11">3</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">487.1065083035951</data>
+      <data key="d18">LINESTRING (-122.0500015 37.5828263, -122.0497681 37.5823672, -122.0495723 37.5819484, -122.0493819 37.5815105, -122.0491968 37.5810365, -122.0490198 37.5805561, -122.0483944 37.5786399)</data>
+    </edge>
+    <edge source="52982439" target="660036211" id="0">
+      <data key="d9">[392662075, 6319237, 1002559431]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['3', '1', '4']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">361.5485693502138</data>
+      <data key="d18">LINESTRING (-122.0500015 37.5828263, -122.0499971 37.5826307, -122.0499247 37.5823947, -122.0498388 37.5821609, -122.0496537 37.5815806, -122.0496028 37.5814169, -122.0495867 37.5812597, -122.0496082 37.5811109, -122.0496725 37.5809493, -122.0498662 37.5807258, -122.0499797 37.5805959, -122.0501136 37.5804408, -122.0504993 37.5799316, -122.0505736 37.5798335)</data>
+    </edge>
+    <edge source="52990182" target="3974638968" id="0">
+      <data key="d9">[117034536, 117034530, 394456587, 117034533]</data>
+      <data key="d19">yes</data>
+      <data key="d10">motorway</data>
+      <data key="d11">4</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">621.9844227414537</data>
+      <data key="d18">LINESTRING (-122.068317 37.6088572, -122.067907 37.6082843, -122.0669217 37.6069073, -122.066672 37.6065556, -122.0648526 37.6039832)</data>
+    </edge>
+    <edge source="52990182" target="52990207" id="0">
+      <data key="d9">[117034537, 394456618, 394456607, 6321209, 117034525, 117034527]</data>
+      <data key="d19">yes</data>
+      <data key="d10">motorway_link</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">506.3993559527473</data>
+      <data key="d11">['3', '2']</data>
+      <data key="d18">LINESTRING (-122.068317 37.6088572, -122.0679444 37.6081581, -122.0673879 37.6071702, -122.0673075 37.607036, -122.0671895 37.6068656, -122.0670785 37.6067103, -122.0669065 37.6064697, -122.0668367 37.6063658, -122.0667751 37.606266, -122.066735 37.6061882, -122.0667041 37.6061105, -122.0666927 37.6060394, -122.0666961 37.6059595, -122.066717 37.6058782, -122.0667507 37.6058097, -122.0668095 37.6057407, -122.0668774 37.6056818, -122.0669487 37.6056402, -122.0670494 37.6056018, -122.067161 37.6055795, -122.0672716 37.6055713, -122.0674642 37.6056014, -122.0681478 37.6057307)</data>
+    </edge>
+    <edge source="52991329" target="32816469" id="0">
+      <data key="d9">[1452263731, 952284503]</data>
+      <data key="d10">motorway</data>
+      <data key="d11">['3', '4']</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">504.32065130821434</data>
+      <data key="d18">LINESTRING (-122.0413267 37.5660329, -122.0407646 37.5655094, -122.0392029 37.5640551, -122.0376606 37.5625511)</data>
+    </edge>
+    <edge source="52991329" target="52991332" id="0">
+      <data key="d9">[6321456, 394391948, 994910220]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['3', '1', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">373.04567033638523</data>
+      <data key="d18">LINESTRING (-122.0413267 37.5660329, -122.0413246 37.5658984, -122.0402463 37.5646972, -122.0401352 37.5645653, -122.0400813 37.564478, -122.0400011 37.564323, -122.0399609 37.5641805, -122.0399368 37.5640253, -122.0399306 37.5637726, -122.0398851 37.5630058)</data>
+    </edge>
+    <edge source="53002300" target="295570836" id="0">
+      <data key="d9">30915695</data>
+      <data key="d10">motorway</data>
+      <data key="d11">5</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880;CA 84</data>
+      <data key="d16">False</data>
+      <data key="d17">1377.7214016846992</data>
+      <data key="d18">LINESTRING (-122.0255691 37.5504613, -122.0272857 37.5527642, -122.0275153 37.5530639, -122.0277674 37.5533829, -122.0280115 37.5536848, -122.0282851 37.5540123, -122.0285372 37.5542972, -122.0288188 37.5545971, -122.0290924 37.5548777, -122.029378 37.555161, -122.034907 37.5603566)</data>
+    </edge>
+    <edge source="53004575" target="53007880" id="0">
+      <data key="d9">[1452263732, 394456589]</data>
+      <data key="d10">motorway</data>
+      <data key="d11">['3', '4']</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">465.8683769682151</data>
+      <data key="d18">LINESTRING (-122.0631684 37.6016219, -122.0607517 37.5982163, -122.0605768 37.5979699)</data>
+    </edge>
+    <edge source="53004575" target="53004584" id="0">
+      <data key="d9">[392657076, 392657077, 394456615]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['3', '1', '4']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">342.60976963180644</data>
+      <data key="d18">LINESTRING (-122.0631684 37.6016219, -122.063131 37.6013909, -122.0626657 37.6005505, -122.0626202 37.600452, -122.0625887 37.600364, -122.062563 37.6002678, -122.0625427 37.6001614, -122.0625318 37.600058, -122.0625323 37.5999578, -122.0625413 37.5998583, -122.062558 37.5997617, -122.062587 37.5996599, -122.0626066 37.5995979, -122.0626597 37.5994689, -122.0629161 37.5990455, -122.0629682 37.5989639, -122.0629948 37.5989033, -122.0630433 37.5987092)</data>
+    </edge>
+    <edge source="53007880" target="720616987" id="0">
+      <data key="d9">[274474196, 394456589]</data>
+      <data key="d10">motorway</data>
+      <data key="d11">3</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">330.807726817981</data>
+      <data key="d19">yes</data>
+      <data key="d18">LINESTRING (-122.0605768 37.5979699, -122.0590783 37.5959068, -122.0587313 37.5953795)</data>
+    </edge>
+    <edge source="53013547" target="257395058" id="0">
+      <data key="d9">[1343752058, 394216990]</data>
+      <data key="d10">motorway</data>
+      <data key="d11">5</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">777.2366184464171</data>
+      <data key="d18">LINESTRING (-121.9910997 37.5243041, -121.9966334 37.5270065, -121.9975559 37.5274581, -121.9986032 37.5279709)</data>
+    </edge>
+    <edge source="53016700" target="257394434" id="0">
+      <data key="d9">394409845</data>
+      <data key="d10">motorway</data>
+      <data key="d11">4</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">522.5122235960093</data>
+      <data key="d18">LINESTRING (-122.020506 37.5437682, -122.0215592 37.545115, -122.0235655 37.5477925)</data>
+    </edge>
+    <edge source="53016700" target="1673750673" id="0">
+      <data key="d9">[6326867, 392676621, 394407742]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['3', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">474.3081752011312</data>
+      <data key="d18">LINESTRING (-122.020506 37.5437682, -122.0205963 37.5440368, -122.0213822 37.545332, -122.0214559 37.5454715, -122.0215123 37.5456161, -122.0215445 37.545765, -122.0215579 37.5459117, -122.0215552 37.54605, -122.0215337 37.5462137, -122.0214347 37.5465911, -122.0214077 37.5466731, -122.0213916 37.5468092, -122.021413 37.5469113, -122.0214613 37.5470176, -122.0215418 37.5471175, -122.021641 37.5471962, -122.0220596 37.547408, -122.0221435 37.5474505, -122.0222799 37.5475042)</data>
+    </edge>
+    <edge source="257360278" target="257394319" id="0">
+      <data key="d9">[35837441, 1137595629]</data>
+      <data key="d10">motorway</data>
+      <data key="d11">4</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880;CA 84</data>
+      <data key="d16">False</data>
+      <data key="d17">1530.0302280320316</data>
+      <data key="d18">LINESTRING (-122.0354495 37.5605818, -122.0295416 37.5550207, -122.0292668 37.5547523, -122.0290012 37.554478, -122.0287411 37.5541973, -122.0284728 37.5538932, -122.0282153 37.5535913, -122.0279686 37.5532808, -122.0277433 37.5529895, -122.0275164 37.5526855, -122.0254961 37.5499745, -122.0251737 37.5495409)</data>
+    </edge>
+    <edge source="257360302" target="257391915" id="0">
+      <data key="d9">[422356745, 394391946, 422356732, 30915654]</data>
+      <data key="d10">motorway</data>
+      <data key="d11">['4', '5']</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">1126.3766247247597</data>
+      <data key="d19">yes</data>
+      <data key="d18">LINESTRING (-122.0414861 37.5664938, -122.0426428 37.5675469, -122.0429646 37.5678621, -122.0433447 37.5682693, -122.0437385 37.5686941, -122.044055 37.5690768, -122.0443903 37.5695084, -122.0446934 37.5699357, -122.0449697 37.5703587, -122.0452164 37.5707839, -122.0454525 37.571224, -122.0456778 37.5716768, -122.0458763 37.5721339, -122.0460694 37.5726249, -122.0462062 37.573014, -122.0470139 37.5754603)</data>
+    </edge>
+    <edge source="257362967" target="52991329" id="0">
+      <data key="d9">[422356738, 422356754, 47232548]</data>
+      <data key="d10">motorway</data>
+      <data key="d11">3</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">1232.0714673721302</data>
+      <data key="d19">yes</data>
+      <data key="d18">LINESTRING (-122.0474393 37.5758191, -122.0464288 37.5729651, -122.0462893 37.5725654, -122.0461042 37.5720871, -122.0458977 37.5716173, -122.0456697 37.5711453, -122.045423 37.5706968, -122.0451574 37.5702461, -122.0449053 37.5698485, -122.0445915 37.5694042, -122.0442589 37.568979, -122.043929 37.5685793, -122.0436017 37.5682094, -122.0432766 37.5678572, -122.0429519 37.5675401, -122.0413267 37.5660329)</data>
+    </edge>
+    <edge source="257389899" target="33144662" id="0">
+      <data key="d9">394475531</data>
+      <data key="d10">motorway</data>
+      <data key="d11">5</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">437.74979921957936</data>
+      <data key="d18">LINESTRING (-122.0989526 37.6520671, -122.0977741 37.6502044, -122.0966883 37.6485624)</data>
+    </edge>
+    <edge source="257389901" target="601724128" id="0">
+      <data key="d9">516013722</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">215.1906724550201</data>
+      <data key="d18">LINESTRING (-122.0990073 37.652661, -122.099011 37.6528485, -122.0992419 37.6533147, -122.0993507 37.6535272, -122.0994754 37.6537597, -122.0998838 37.6544531)</data>
+    </edge>
+    <edge source="257391140" target="33155441" id="0">
+      <data key="d9">[117034522, 394461946, 983819403, 394461947]</data>
+      <data key="d10">motorway</data>
+      <data key="d11">['3', '4']</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">1170.8082356693608</data>
+      <data key="d18">LINESTRING (-122.0695611 37.6110353, -122.0709933 37.6130055, -122.0714358 37.6136238, -122.0715443 37.6137758, -122.0721191 37.6145968, -122.0723559 37.614935, -122.0733053 37.6162414, -122.074362 37.617719, -122.0751856 37.6188695, -122.0761106 37.6201975)</data>
+    </edge>
+    <edge source="257391915" target="721472846" id="0">
+      <data key="d9">394388080</data>
+      <data key="d10">motorway</data>
+      <data key="d11">4</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">726.9222145627482</data>
+      <data key="d18">LINESTRING (-122.0470139 37.5754603, -122.0475536 37.576953, -122.0480096 37.5782752, -122.0487945 37.5806156, -122.0489635 37.5810663, -122.0491432 37.5815212, -122.0492352 37.5817555)</data>
+    </edge>
+    <edge source="257391915" target="660038421" id="0">
+      <data key="d9">[394390160, 394388081, 392663540, 392663542]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['2', '4']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">314.2975335354278</data>
+      <data key="d18">LINESTRING (-122.0470139 37.5754603, -122.0469552 37.5755985, -122.0471428 37.5764076, -122.0472532 37.5769233, -122.0472765 37.5771076, -122.0472907 37.5772555, -122.0472857 37.5775104, -122.047252 37.5777379, -122.0472289 37.5779253, -122.0472305 37.5779478, -122.0472385 37.5780574, -122.0472117 37.5782531)</data>
+    </edge>
+    <edge source="257394319" target="257394436" id="0">
+      <data key="d9">35837442</data>
+      <data key="d10">motorway</data>
+      <data key="d11">4</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">524.1674470362261</data>
+      <data key="d18">LINESTRING (-122.0251737 37.5495409, -122.0238069 37.5477563, -122.0221452 37.5454846)</data>
+    </edge>
+    <edge source="257394319" target="53001524" id="0">
+      <data key="d9">[394407675, 392678212, 82486439]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['3', '1', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">407.5681666659357</data>
+      <data key="d18">LINESTRING (-122.0251737 37.5495409, -122.0251909 37.5494022, -122.0243581 37.548066, -122.0242937 37.5479554, -122.0242535 37.5478597, -122.0242079 37.5477385, -122.0241811 37.5476258, -122.0241622 37.5475199, -122.0241596 37.5474174, -122.0241655 37.5473512, -122.0242167 37.5470613, -122.024322 37.5467779, -122.0243983 37.5465869, -122.0244027 37.5464677, -122.0243744 37.5463684, -122.0242581 37.5461967, -122.0241903 37.5461228)</data>
+    </edge>
+    <edge source="257394434" target="53002300" id="0">
+      <data key="d9">394409845</data>
+      <data key="d10">motorway</data>
+      <data key="d11">4</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">345.34761455095725</data>
+    </edge>
+    <edge source="257394436" target="601720947" id="0">
+      <data key="d9">35837442</data>
+      <data key="d10">motorway</data>
+      <data key="d11">4</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">369.8338318102832</data>
+    </edge>
+    <edge source="257395021" target="32816479" id="0">
+      <data key="d9">821839347</data>
+      <data key="d10">motorway</data>
+      <data key="d11">4</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">607.3882322161692</data>
+      <data key="d18">LINESTRING (-122.0063014 37.5318913, -122.0052304 37.5313131, -122.0036128 37.5304297, -122.0006144 37.5288095)</data>
+    </edge>
+    <edge source="257395021" target="257395104" id="0">
+      <data key="d9">[392684547, 6322725, 40461478, 40461485, 394423673, 394423674]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['1', '2', '4']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">463.6032133293034</data>
+      <data key="d18">LINESTRING (-122.0063014 37.5318913, -122.0061231 37.5316908, -122.0047218 37.5307856, -122.0045865 37.5306955, -122.0044924 37.5306245, -122.0043959 37.5305433, -122.0043139 37.5304597, -122.0042429 37.5303759, -122.0041856 37.5302943, -122.0041412 37.53021, -122.0041 37.5301078, -122.0040801 37.5300615, -122.0040405 37.5299137, -122.004018 37.529793, -122.0040171 37.5297304, -122.0040044 37.5294619, -122.0039943 37.5293384, -122.0039582 37.5291158, -122.0038897 37.5289288, -122.0038682 37.5288858, -122.0038433 37.5288568, -122.0038064 37.528829, -122.0037446 37.5288067, -122.0036683 37.528799, -122.003592 37.5288015, -122.0035149 37.5288108, -122.0034155 37.5288328)</data>
+    </edge>
+    <edge source="257395023" target="53016700" id="0">
+      <data key="d9">363859948</data>
+      <data key="d10">motorway</data>
+      <data key="d11">5</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">1855.4126677877261</data>
+      <data key="d18">LINESTRING (-122.0061082 37.5320525, -122.0128179 37.5356572, -122.0134006 37.5359813, -122.0139531 37.536311, -122.0144815 37.5366662, -122.0150314 37.5370809, -122.0155222 37.5374893, -122.0159836 37.5379062, -122.01641 37.5383443, -122.0168124 37.5388122, -122.0171423 37.5392269, -122.0174582 37.5396417, -122.020506 37.5437682)</data>
+    </edge>
+    <edge source="257395031" target="257395023" id="0">
+      <data key="d9">394423672</data>
+      <data key="d10">motorway</data>
+      <data key="d11">4</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">283.8410813827395</data>
+      <data key="d18">LINESTRING (-122.0034734 37.5305866, -122.0051031 37.5314718, -122.0061082 37.5320525)</data>
+    </edge>
+    <edge source="257395058" target="257395031" id="0">
+      <data key="d9">394423672</data>
+      <data key="d10">motorway</data>
+      <data key="d11">4</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">518.6930661142799</data>
+      <data key="d18">LINESTRING (-121.9986032 37.5279709, -121.9989273 37.5281417, -121.9997092 37.5285546, -122.0004717 37.5289699, -122.0034734 37.5305866)</data>
+    </edge>
+    <edge source="257395058" target="3958737417" id="0">
+      <data key="d9">[40461488, 6324043, 407953542]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['2', '4']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">432.388392130833</data>
+      <data key="d18">LINESTRING (-121.9986032 37.5279709, -121.9987451 37.5281684, -121.9998927 37.5288848, -122.0000206 37.5289758, -122.0001377 37.5290772, -122.0002413 37.5291897, -122.0003237 37.5293045, -122.0003914 37.5294222, -122.0004459 37.5295324, -122.0004968 37.5296426, -122.0005644 37.5298639, -122.0006028 37.5300854, -122.0006325 37.5301882, -122.0006754 37.5302805, -122.0007303 37.5303702, -122.0007948 37.5304499, -122.0008771 37.5305269, -122.0009812 37.5306028, -122.0010848 37.5306621, -122.0013821 37.5307914, -122.0014629 37.5308132, -122.001573 37.5308429)</data>
+    </edge>
+    <edge source="257395063" target="257395232" id="0">
+      <data key="d9">967815243</data>
+      <data key="d10">motorway</data>
+      <data key="d11">4</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">583.4289155583407</data>
+      <data key="d18">LINESTRING (-121.9975331 37.5272149, -121.9967568 37.5268406, -121.9919082 37.5244528)</data>
+    </edge>
+    <edge source="257395232" target="257395396" id="0">
+      <data key="d9">967815242</data>
+      <data key="d10">motorway</data>
+      <data key="d11">4</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">553.0734938769117</data>
+    </edge>
+    <edge source="257395232" target="257395292" id="0">
+      <data key="d9">[392687865, 23756697, 392687866, 392687867, 392687869]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['3', '1', '2', '4']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">472.34309534400234</data>
+      <data key="d18">LINESTRING (-121.9919082 37.5244528, -121.9917001 37.5242433, -121.9900838 37.5232988, -121.9899283 37.5231796, -121.9897941 37.5230562, -121.9896654 37.5228924, -121.9895688 37.5227499, -121.9894384 37.5224682, -121.9892738 37.5220436, -121.9892041 37.5219203, -121.9891129 37.5218011, -121.9890109 37.5217075, -121.9887002 37.5215176, -121.988614 37.5214649, -121.9884569 37.5213651)</data>
+    </edge>
+    <edge source="257395396" target="32816481" id="0">
+      <data key="d9">394433089</data>
+      <data key="d10">motorway</data>
+      <data key="d11">4</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">312.10214854785124</data>
+      <data key="d18">LINESTRING (-121.9865805 37.5218288, -121.9857088 37.5214012, -121.9851054 37.5210997, -121.9844858 37.520753, -121.9836887 37.5202201)</data>
+    </edge>
+    <edge source="257395440" target="53013547" id="0">
+      <data key="d9">394216997</data>
+      <data key="d10">motorway</data>
+      <data key="d11">3</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">260.23762540374037</data>
+    </edge>
+    <edge source="257395447" target="257395440" id="0">
+      <data key="d9">[394216997, 1452314559]</data>
+      <data key="d10">motorway</data>
+      <data key="d11">3</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">560.0768169068339</data>
+      <data key="d18">LINESTRING (-121.9833275 37.5202615, -121.9837946 37.5205627, -121.9839803 37.5206756, -121.9843579 37.5209052, -121.9849686 37.5212486, -121.9855747 37.5215608, -121.9886083 37.5230499)</data>
+    </edge>
+    <edge source="257395447" target="1666847606" id="0">
+      <data key="d9">[394433093, 23756746, 363859981, 392687868, 392687870]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['3', '1', '2', '4']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">502.06590035206204</data>
+      <data key="d18">LINESTRING (-121.9833275 37.5202615, -121.9834103 37.5204264, -121.9839253 37.5207998, -121.9843383 37.5211008, -121.9851619 37.5216724, -121.9853068 37.5218001, -121.9854355 37.521949, -121.9855509 37.5221075, -121.9857703 37.5224598, -121.9859087 37.5226927, -121.986039 37.5229456, -121.986141 37.5230818, -121.9862644 37.5231839, -121.9864414 37.5232775, -121.9867292 37.5233991, -121.9868928 37.5234629, -121.9870602 37.5235094)</data>
+    </edge>
+    <edge source="257395669" target="257395447" id="0">
+      <data key="d9">[965569293, 965569292, 930259005]</data>
+      <data key="d10">motorway</data>
+      <data key="d11">['3', '4']</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">1591.0405807767102</data>
+      <data key="d18">LINESTRING (-121.9706305 37.5100988, -121.9719249 37.5111191, -121.972157 37.5113066, -121.9751206 37.5136995, -121.9822353 37.5194441, -121.982777 37.5198592, -121.9833275 37.5202615)</data>
+    </edge>
+    <edge source="295570836" target="32785488" id="0">
+      <data key="d9">394391946</data>
+      <data key="d10">motorway</data>
+      <data key="d11">4</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">558.2352818061089</data>
+      <data key="d18">LINESTRING (-122.034907 37.5603566, -122.0378511 37.5630834, -122.0390232 37.564172)</data>
+    </edge>
+    <edge source="295570836" target="721672725" id="0">
+      <data key="d9">[394391944, 394391945, 6322326]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['3', '1', '2']</data>
+      <data key="d14">True</data>
+      <data key="d15">CA 84</data>
+      <data key="d16">False</data>
+      <data key="d17">562.4422476750458</data>
+      <data key="d18">LINESTRING (-122.034907 37.5603566, -122.0349487 37.5604875, -122.0355406 37.5610529, -122.0367503 37.5623945, -122.0368817 37.5625583, -122.0369541 37.5626922, -122.0370051 37.5628219, -122.0370292 37.5629559, -122.0370239 37.5630941, -122.0369488 37.5636362, -122.0369663 37.5638052, -122.036981 37.563885, -122.0370266 37.5640125, -122.0370963 37.564138, -122.0371768 37.5642464, -122.0372767 37.5643504, -122.0373887 37.5644441, -122.0375036 37.5645266, -122.0375088 37.5645308, -122.037576 37.5645783, -122.0376255 37.5645887, -122.0376778 37.5645898, -122.037749 37.5645813)</data>
+    </edge>
+    <edge source="601720947" target="257395021" id="0">
+      <data key="d9">821839348</data>
+      <data key="d10">motorway</data>
+      <data key="d11">4</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">1728.404868616437</data>
+      <data key="d18">LINESTRING (-122.0199767 37.5426375, -122.0176646 37.53956, -122.0173542 37.539144, -122.0170243 37.538725, -122.0165871 37.5382358, -122.0161606 37.5377977, -122.01571 37.5373723, -122.0152004 37.5369469, -122.0146452 37.5365386, -122.0140899 37.5361685, -122.0135267 37.5358261, -122.0129574 37.5355062, -122.0063014 37.5318913)</data>
+    </edge>
+    <edge source="720615761" target="52982404" id="0">
+      <data key="d9">[821844001, 274474202, 394456588]</data>
+      <data key="d10">motorway</data>
+      <data key="d11">4</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">660.4597796435281</data>
+      <data key="d19">yes</data>
+      <data key="d18">LINESTRING (-122.0583625 37.595308, -122.0584877 37.5954599, -122.0588537 37.5959792, -122.0602906 37.597998, -122.0620222 37.6004912)</data>
+    </edge>
+    <edge source="720615761" target="52982389" id="0">
+      <data key="d9">[394456611, 392657555, 392657556, 964971925, 392657557, 274474199, 6321021, 6319230]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['3', '1', '4', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">443.35382827867596</data>
+      <data key="d19">yes</data>
+      <data key="d18">LINESTRING (-122.0583625 37.595308, -122.0584017 37.5954864, -122.0587186 37.5960169, -122.0592736 37.5969745, -122.0593431 37.5970923, -122.0594328 37.5972804, -122.0594519 37.5973463, -122.0594814 37.597435, -122.0595016 37.5975019, -122.059509 37.5975574, -122.0595163 37.597613, -122.059519 37.5977073, -122.0595137 37.5977635, -122.0595006 37.5978608, -122.0594819 37.5979324, -122.0594557 37.5980078, -122.059415 37.59809, -122.0593365 37.5981894, -122.0593271 37.5982013, -122.0592753 37.5982668, -122.0591939 37.5983619, -122.0591165 37.5984534, -122.0590718 37.5985202, -122.059044 37.5985873, -122.059036 37.5986542, -122.0590404 37.5987359, -122.059066 37.5988685, -122.0590951 37.5989375, -122.059142 37.5989975)</data>
+    </edge>
+    <edge source="720616987" target="52982439" id="0">
+      <data key="d9">[274474197, 47232554, 1024521917, 1024521918]</data>
+      <data key="d10">motorway</data>
+      <data key="d11">['3', '4']</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">1594.773640436098</data>
+      <data key="d19">yes</data>
+      <data key="d18">LINESTRING (-122.0587313 37.5953795, -122.0582414 37.5947337, -122.0566133 37.5924533, -122.0563812 37.592069, -122.0541167 37.5889554, -122.0512838 37.5849846, -122.0510021 37.5845744, -122.0506855 37.584074, -122.0504441 37.5836638, -122.0501893 37.5832025, -122.0500015 37.5828263)</data>
+    </edge>
+    <edge source="720618433" target="257391140" id="0">
+      <data key="d9">[1445731043, 117034532, 117034535, 821768054, 117034522, 117034524]</data>
+      <data key="d10">motorway</data>
+      <data key="d11">['4', '5']</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">924.1035102247084</data>
+      <data key="d19">yes</data>
+      <data key="d18">LINESTRING (-122.0643875 37.6038059, -122.0664523 37.6066417, -122.0667017 37.6069902, -122.0678175 37.6085456, -122.0682324 37.6091254, -122.0684165 37.6093945, -122.0695611 37.6110353)</data>
+    </edge>
+    <edge source="720618433" target="720626971" id="0">
+      <data key="d9">[394456625, 6321211, 394456604]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['3', '1', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">400.57313128066346</data>
+      <data key="d18">LINESTRING (-122.0643875 37.6038059, -122.0644357 37.6040324, -122.0650669 37.6051033, -122.0651146 37.6051934, -122.0651525 37.6052799, -122.0651802 37.605372, -122.0652003 37.6054606, -122.0652149 37.6055509, -122.0652203 37.6056506, -122.0652146 37.6057436, -122.0651632 37.6059581, -122.0651049 37.6061846, -122.0650054 37.6065089, -122.0649938 37.6065761, -122.0649917 37.6066597, -122.0650297 37.6072572)</data>
+    </edge>
+    <edge source="721472846" target="720615761" id="0">
+      <data key="d9">[394388080, 47232552, 47232550]</data>
+      <data key="d10">motorway</data>
+      <data key="d11">4</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">1710.1408216179036</data>
+      <data key="d19">yes</data>
+      <data key="d18">LINESTRING (-122.0492352 37.5817555, -122.0498164 37.5829836, -122.0500337 37.5833874, -122.050267 37.5838019, -122.0505274 37.5842364, -122.0507929 37.5846552, -122.0510719 37.5850675, -122.0563826 37.5925192, -122.0583625 37.595308)</data>
+    </edge>
+    <edge source="1080537030" target="257362967" id="0">
+      <data key="d9">47232548</data>
+      <data key="d10">motorway</data>
+      <data key="d11">3</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">324.75593526976894</data>
+    </edge>
+    <edge source="1243945808" target="3974818867" id="0">
+      <data key="d9">394475533</data>
+      <data key="d10">motorway</data>
+      <data key="d11">5</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">274.2295945740995</data>
+      <data key="d18">LINESTRING (-122.0928828 37.6432498, -122.092341 37.6425119, -122.0913517 37.6411023)</data>
+    </edge>
+    <edge source="3974638968" target="53004575" id="0">
+      <data key="d9">117034534</data>
+      <data key="d10">motorway</data>
+      <data key="d11">5</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">301.596488293692</data>
+      <data key="d18">LINESTRING (-122.0648526 37.6039832, -122.0640389 37.6028654, -122.0631684 37.6016219)</data>
+    </edge>
+    <edge source="3974818867" target="33154458" id="0">
+      <data key="d9">821385556</data>
+      <data key="d10">motorway</data>
+      <data key="d11">5</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">802.6950821373041</data>
+      <data key="d18">LINESTRING (-122.0913517 37.6411023, -122.090383 37.6397721, -122.0868459 37.634827)</data>
+    </edge>
+    <edge source="3974818880" target="33153573" id="0">
+      <data key="d9">394475530</data>
+      <data key="d10">motorway</data>
+      <data key="d11">5</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">87.71561718298817</data>
+    </edge>
+    <edge source="8672211521" target="33154450" id="0">
+      <data key="d9">935857863</data>
+      <data key="d10">motorway</data>
+      <data key="d11">5</data>
+      <data key="d12">65 mph</data>
+      <data key="d13">Nimitz Freeway</data>
+      <data key="d14">True</data>
+      <data key="d15">I 880</data>
+      <data key="d16">False</data>
+      <data key="d17">121.22865136792117</data>
+    </edge>
+    <edge source="660038421" target="721472846" id="0">
+      <data key="d9">[394390161, 6326067, 1427255381, 1019924758]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['3', '1', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">436.757214429008</data>
+      <data key="d18">LINESTRING (-122.0472117 37.5782531, -122.0471637 37.5783391, -122.0471578 37.5783722, -122.0471449 37.5784453, -122.047161 37.5785601, -122.047204 37.578677, -122.0472871 37.578811, -122.0482537 37.5800949, -122.0483764 37.5802587, -122.0485451 37.5804839, -122.0486752 37.58068, -122.049096 37.5816128, -122.0492352 37.5817555)</data>
+    </edge>
+    <edge source="9516533155" target="660038421" id="0">
+      <data key="d9">1032904190</data>
+      <data key="d10">primary</data>
+      <data key="d11">4</data>
+      <data key="d12">35 mph</data>
+      <data key="d13">Fremont Boulevard</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">111.93014657557957</data>
+    </edge>
+    <edge source="32784720" target="32785488" id="0">
+      <data key="d9">[962495696, 4958461, 962495695]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['1', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">345.4386652898709</data>
+      <data key="d18">LINESTRING (-122.0380498 37.5639732, -122.0378634 37.5640338, -122.0378055 37.5640508, -122.03774 37.5640699, -122.0375925 37.5640763, -122.037445 37.5640508, -122.0373162 37.5639955, -122.0372841 37.5639694, -122.037217 37.5639147, -122.0371473 37.5638169, -122.0371124 37.5637021, -122.0371151 37.5635916, -122.0371607 37.563481, -122.0372358 37.5633875, -122.0373377 37.563313, -122.0374557 37.5632705, -122.0375871 37.5632493, -122.0376347 37.5632539, -122.03774 37.5632641, -122.0378688 37.5633152, -122.0380109 37.563413, -122.0390232 37.564172)</data>
+    </edge>
+    <edge source="33144364" target="33153573" id="0">
+      <data key="d9">156124109</data>
+      <data key="d10">motorway_link</data>
+      <data key="d12">40 mph</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">507.2501285178161</data>
+      <data key="d18">LINESTRING (-122.0920363 37.6483304, -122.0921176 37.6482932, -122.092368 37.6478944, -122.092608 37.6475144, -122.092908 37.6471944, -122.0929932 37.6471142, -122.0931726 37.6469721, -122.0935106 37.6467798, -122.0936846 37.6467098, -122.093888 37.6466444, -122.094028 37.6466226, -122.0941425 37.6466279, -122.0942595 37.6466409, -122.0944895 37.6467008, -122.0946142 37.6467601, -122.094748 37.6468444, -122.09488 37.64696, -122.0954486 37.6475645, -122.0957732 37.6479323, -122.0959406 37.6480168)</data>
+    </edge>
+    <edge source="33144374" target="1243945808" id="0">
+      <data key="d9">[141461443, 141461444, 1358516451, 141461512, 151481864]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['1', '2']</data>
+      <data key="d12">65 mph</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">589.9532448734316</data>
+      <data key="d19">yes</data>
+      <data key="d18">LINESTRING (-122.0926232 37.6471468, -122.0927428 37.6470375, -122.0928611 37.6469434, -122.093038 37.6468303, -122.0933078 37.6467344, -122.0940446 37.6465064, -122.0942115 37.646445, -122.09439 37.64635, -122.0944979 37.6462738, -122.094581 37.6461937, -122.0946678 37.6460581, -122.09471 37.64595, -122.0947469 37.645837, -122.0947594 37.645728, -122.0947564 37.6456246, -122.094739 37.6455291, -122.0946794 37.6453748, -122.0946009 37.6452516, -122.09435 37.6449, -122.0938028 37.6442006, -122.09368 37.64405, -122.09353 37.64387, -122.09321 37.64351, -122.0930256 37.6432625, -122.0928828 37.6432498)</data>
+    </edge>
+    <edge source="33144905" target="1642975898" id="0">
+      <data key="d9">[183343440, 144850153, 144850148, 183343414]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d12">65 mph</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">816.8323602400175</data>
+      <data key="d19">yes</data>
+      <data key="d18">LINESTRING (-122.0914285 37.6419757, -122.0939957 37.6455926, -122.0942387 37.6459339, -122.0942728 37.6460307, -122.0942687 37.6461314, -122.09422 37.64624, -122.09415 37.64633, -122.0940723 37.6463858, -122.0939708 37.6464312, -122.0938591 37.6464435, -122.0937789 37.6464401, -122.0936084 37.6463944, -122.0934736 37.6463121, -122.0933759 37.6461739, -122.093365 37.6460705, -122.093396 37.6459557, -122.0934607 37.6458087, -122.0940126 37.6446459)</data>
+    </edge>
+    <edge source="33144905" target="33144974" id="0">
+      <data key="d9">156124111</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d12">65 mph</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">466.53277518570087</data>
+      <data key="d18">LINESTRING (-122.0914285 37.6419757, -122.0914886 37.6421048, -122.0920207 37.6429951, -122.0920808 37.6431175, -122.0921581 37.643257, -122.0922657 37.6434163, -122.0923638 37.6435913, -122.0925941 37.6439993, -122.0927031 37.6442254, -122.0927711 37.6444247, -122.0928298 37.6446728, -122.0929009 37.6451744, -122.0929303 37.6454711, -122.0929299 37.6456098, -122.0929185 37.6457537, -122.0929086 37.6459378)</data>
+    </edge>
+    <edge source="33144974" target="33144473" id="0">
+      <data key="d9">394475537</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">2</data>
+      <data key="d12">65 mph</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">97.10051867652487</data>
+      <data key="d18">LINESTRING (-122.0929086 37.6459378, -122.0928471 37.6461105, -122.0926956 37.6464421, -122.0926173 37.6467776)</data>
+    </edge>
+    <edge source="33154542" target="33154454" id="0">
+      <data key="d9">156115118</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">138.01271881881766</data>
+      <data key="d18">LINESTRING (-122.0852398 37.6332643, -122.0855915 37.6336866, -122.0859707 37.6341859, -122.0861328 37.6342685)</data>
+    </edge>
+    <edge source="33155422" target="33155435" id="0">
+      <data key="d9">156119542</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">335.5418610645157</data>
+      <data key="d18">LINESTRING (-122.0756927 37.6178558, -122.0756879 37.6180156, -122.0756746 37.6180754, -122.075655 37.6181242, -122.0756215 37.6181625, -122.0755706 37.6181966, -122.0755047 37.6182223, -122.0754369 37.6182344, -122.0753636 37.6182346, -122.0752982 37.6182213, -122.0752417 37.6181948, -122.075196 37.6181594, -122.07515 37.6181109, -122.0751078 37.618059, -122.0745866 37.6173838, -122.0741453 37.6168121, -122.0740496 37.6167002, -122.07358 37.6162295)</data>
+    </edge>
+    <edge source="33155445" target="1318455838" id="0">
+      <data key="d9">[6323713, 538908306]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">54.49612058767714</data>
+      <data key="d18">LINESTRING (-122.075781 37.6180169, -122.0757888 37.6177195, -122.0757892 37.6177041, -122.0757914 37.6176141, -122.0757897 37.6175269)</data>
+    </edge>
+    <edge source="33155445" target="257390816" id="0">
+      <data key="d9">87328671</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">74.40251922337112</data>
+      <data key="d18">LINESTRING (-122.075781 37.6180169, -122.0758393 37.6179031, -122.0758819 37.6178474, -122.0759388 37.6177967, -122.0760113 37.6177488, -122.0760706 37.617728, -122.0760957 37.6177181, -122.0764164 37.6176427)</data>
+    </edge>
+    <edge source="33155470" target="33155441" id="0">
+      <data key="d9">[963557058, 117034995, 394464636, 117034998]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['1', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">391.0267168679628</data>
+      <data key="d19">yes</data>
+      <data key="d18">LINESTRING (-122.0730713 37.6178039, -122.0737394 37.6179528, -122.0739 37.6180122, -122.07405 37.6180799, -122.0741733 37.6181488, -122.0742948 37.6182229, -122.0744084 37.6183036, -122.0745147 37.6183864, -122.0746103 37.6184701, -122.0747705 37.6186402, -122.0747858 37.618657, -122.0761106 37.6201975)</data>
+    </edge>
+    <edge source="52978820" target="601724126" id="0">
+      <data key="d9">6318478</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">2</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">328.66270031369635</data>
+      <data key="d18">LINESTRING (-122.0991991 37.6573682, -122.0996276 37.657266, -122.0997199 37.6572511, -122.0998087 37.657243, -122.0999094 37.6572497, -122.1000117 37.6572677, -122.1001073 37.6572959, -122.1015695 37.6578416, -122.1017207 37.6579012, -122.1018415 37.6579595, -122.101953 37.6580245, -122.1020418 37.6580907, -122.1021206 37.6581629, -122.1021999 37.6582535, -122.1022755 37.6583534, -122.1023991 37.6584782)</data>
+    </edge>
+    <edge source="52982389" target="52982404" id="0">
+      <data key="d9">[1072928096, 6319225, 394456596]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['3', '1']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">317.6389299001086</data>
+      <data key="d18">LINESTRING (-122.059142 37.5989975, -122.0592371 37.5990448, -122.0593158 37.5990894, -122.0594108 37.5991274, -122.0595363 37.5991629, -122.0596623 37.5991885, -122.0603656 37.5993086, -122.0605427 37.5993426, -122.0606835 37.5993776, -122.0607999 37.5994187, -122.0609023 37.5994622, -122.0610078 37.5995194, -122.0611055 37.5995787, -122.0612056 37.5996483, -122.0612988 37.599719, -122.0613825 37.5997922, -122.0614639 37.5998766, -122.0615366 37.5999604, -122.0617571 37.6002541, -122.0618534 37.6003666, -122.0620222 37.6004912)</data>
+    </edge>
+    <edge source="52990207" target="1318438168" id="0">
+      <data key="d9">93047836</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">48.42520542629088</data>
+      <data key="d18">LINESTRING (-122.0681478 37.6057307, -122.0681839 37.605807, -122.0682002 37.6058508, -122.0682174 37.6058937, -122.0682205 37.6059354, -122.0682109 37.6059827, -122.0681865 37.6060244, -122.0680999 37.6061321)</data>
+    </edge>
+    <edge source="52990207" target="53069533" id="0">
+      <data key="d9">392656075</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">2</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">30.9175807337238</data>
+      <data key="d18">LINESTRING (-122.0681478 37.6057307, -122.0683362 37.6057607, -122.0684916 37.6057866)</data>
+    </edge>
+    <edge source="52991332" target="2408972349" id="0">
+      <data key="d9">[232551447, 26972116, 392670855]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['3', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">84.14178307522369</data>
+      <data key="d18">LINESTRING (-122.0398851 37.5630058, -122.0397678 37.5628262, -122.0396712 37.5627071, -122.0395559 37.5626093, -122.039482 37.5625692, -122.039398 37.562523, -122.039261 37.5624572)</data>
+    </edge>
+    <edge source="52991332" target="295570265" id="0">
+      <data key="d9">[170999043, 394391947, 170999039]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">333.1577499885781</data>
+      <data key="d19">yes</data>
+      <data key="d18">LINESTRING (-122.0398851 37.5630058, -122.0399032 37.5627992, -122.0399239 37.5626585, -122.0399433 37.5625088, -122.0399793 37.5623302, -122.0400324 37.5621705, -122.0400967 37.56198, -122.0401647 37.5618247, -122.040272 37.5616525, -122.0403927 37.561476, -122.0411412 37.5605344, -122.0413019 37.5602811)</data>
+    </edge>
+    <edge source="52994613" target="257395063" id="0">
+      <data key="d9">[933829361, 933829362, 6322123]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['1', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">706.6843486678891</data>
+      <data key="d18">LINESTRING (-122.0049243 37.5281202, -122.0045101 37.5283161, -122.004356 37.528376, -122.0041724 37.5284308, -122.0039848 37.528481, -122.0035715 37.5285841, -122.0034693 37.5286096, -122.0032897 37.5286544, -122.0031369 37.5286888, -122.0029499 37.5287205, -122.0027633 37.528746, -122.0025914 37.5287638, -122.002389 37.5287753, -122.0021834 37.5287799, -122.0019707 37.5287767, -122.0017956 37.5287681, -122.0015993 37.5287511, -122.0013942 37.5287249, -122.0011811 37.5286882, -122.0010963 37.5286697, -122.0010114 37.5286511, -122.0008427 37.5286087, -122.0006734 37.5285569, -122.0005163 37.5285057, -122.0003611 37.5284501, -122.0001962 37.5283883, -122.0000268 37.5283228, -121.9998473 37.5282463, -121.9996899 37.5281742, -121.9992826 37.5279776, -121.9991056 37.5278984, -121.9975331 37.5272149)</data>
+    </edge>
+    <edge source="52994651" target="32816481" id="0">
+      <data key="d9">[1085757603, 394433094, 394433095, 6322124, 946723089]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['1', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">507.5388302356678</data>
+      <data key="d18">LINESTRING (-121.9890419 37.5208147, -121.9888221 37.5208862, -121.988686 37.520924, -121.9886583 37.5209318, -121.9884722 37.5209846, -121.9882333 37.5210325, -121.9868437 37.5212012, -121.9867086 37.5212175, -121.9865916 37.5212268, -121.9863555 37.5212438, -121.9861302 37.521231, -121.9860382 37.5212185, -121.9859103 37.5212012, -121.9856421 37.5211374, -121.9854114 37.5210608, -121.9851754 37.520963, -121.9848265 37.5207955, -121.9844081 37.5205828, -121.9836887 37.5202201)</data>
+    </edge>
+    <edge source="52998018" target="601724136" id="0">
+      <data key="d9">6325778</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">279.3073535753273</data>
+      <data key="d18">LINESTRING (-122.1020004 37.6562778, -122.102381 37.6561916, -122.1024719 37.656182, -122.1025574 37.6561928, -122.1026382 37.6562043, -122.1027106 37.6562309, -122.1027817 37.656267, -122.1028461 37.6563147, -122.1028903 37.6563636, -122.1029332 37.6564262, -122.1029614 37.6564921, -122.1029668 37.6565621, -122.1029614 37.6566205, -122.1029453 37.6566821, -122.1029078 37.6567479, -122.1028541 37.6568063, -122.1027871 37.6568594, -122.1027133 37.6568976, -122.1026302 37.6569274, -122.1025376 37.6569401, -122.1024451 37.6569412, -122.1023566 37.6569284, -122.1022667 37.6568966, -122.102193 37.656853, -122.1021353 37.6568031, -122.1020828 37.6567478, -122.1017396 37.6562905)</data>
+    </edge>
+    <edge source="53001524" target="725437331" id="0">
+      <data key="d9">30915694</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">141.66386964554545</data>
+      <data key="d18">LINESTRING (-122.0241903 37.5461228, -122.02409 37.5459671, -122.0240277 37.54585, -122.0239939 37.5457435, -122.0239859 37.5456314, -122.0239904 37.545527, -122.0240295 37.5454085, -122.024299 37.5449311)</data>
+    </edge>
+    <edge source="53001524" target="53015559" id="0">
+      <data key="d9">[392677800, 392677801]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['1', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">71.2819028675983</data>
+      <data key="d18">LINESTRING (-122.0241903 37.5461228, -122.0240607 37.54608, -122.0236056 37.5458693, -122.023486 37.5458099)</data>
+    </edge>
+    <edge source="53002311" target="53002300" id="0">
+      <data key="d9">[6323739, 394407676]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['3', '1']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">401.6917161505478</data>
+      <data key="d18">LINESTRING (-122.0223084 37.5483251, -122.0225583 37.5482775, -122.0229124 37.548268, -122.023143 37.5483084, -122.0233496 37.5483616, -122.0235427 37.5484381, -122.023639 37.5484888, -122.0237532 37.5485604, -122.0241274 37.5488528, -122.0243044 37.5490314, -122.0246183 37.5493802, -122.0255691 37.5504613)</data>
+    </edge>
+    <edge source="53002346" target="53002311" id="0">
+      <data key="d9">183343439</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">65.07473395019598</data>
+      <data key="d18">LINESTRING (-122.0215764 37.5483129, -122.0216893 37.5483169, -122.0217993 37.5483424, -122.0219092 37.5483488, -122.0220326 37.5483403, -122.0223084 37.5483251)</data>
+    </edge>
+    <edge source="53004584" target="610811998" id="0">
+      <data key="d9">[6324226, 406593690]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">2</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">47.968774194198474</data>
+      <data key="d18">LINESTRING (-122.0630433 37.5987092, -122.0629849 37.5985557, -122.0629503 37.5984868, -122.0628737 37.5984295, -122.0627377 37.598394)</data>
+    </edge>
+    <edge source="53004584" target="1318424101" id="0">
+      <data key="d9">117033930</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">2</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">35.54226846858094</data>
+      <data key="d18">LINESTRING (-122.0630433 37.5987092, -122.0631272 37.5986156, -122.0631977 37.5985229, -122.0632812 37.5984525)</data>
+    </edge>
+    <edge source="257395446" target="257395440" id="0">
+      <data key="d9">[23756744, 1047072466, 1047072467]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['1', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">386.6232600281542</data>
+      <data key="d18">LINESTRING (-121.987288 37.5228356, -121.987019 37.5230376, -121.9868705 37.5231083, -121.9867319 37.5231331, -121.9865272 37.5231116, -121.9863877 37.5230562, -121.9862804 37.5229669, -121.9862107 37.5228435, -121.9862053 37.5227116, -121.9862536 37.5225755, -121.9863555 37.5224649, -121.986495 37.5223883, -121.986515 37.5223842, -121.9866399 37.5223585, -121.9868169 37.5223585, -121.9870046 37.5224095, -121.9877932 37.5227627, -121.9886083 37.5230499)</data>
+    </edge>
+    <edge source="295570233" target="257360278" id="0">
+      <data key="d9">[6324524, 1076094198, 1076094199]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['1', '2']</data>
+      <data key="d12">35 mph</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">657.989732465149</data>
+      <data key="d18">LINESTRING (-122.0411678 37.5600109, -122.0405704 37.5606464, -122.0397872 37.5614735, -122.0396746 37.5615862, -122.0395431 37.5616946, -122.0393983 37.5617882, -122.039224 37.561869, -122.0390201 37.5619328, -122.0388163 37.561971, -122.0386151 37.5619774, -122.0383657 37.5619625, -122.0374349 37.561835, -122.0371882 37.5617776, -122.0369468 37.5616904, -122.0367268 37.5615734, -122.0365257 37.5614225, -122.0362145 37.5611546, -122.0354495 37.5605818)</data>
+    </edge>
+    <edge source="341668907" target="32816469" id="0">
+      <data key="d9">6326843</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">365.31907376327183</data>
+      <data key="d18">LINESTRING (-122.0388129 37.563211, -122.0389336 37.5631259, -122.0390463 37.5630685, -122.0391696 37.563026, -122.0393064 37.5630133, -122.039454 37.5630366, -122.0395854 37.5631004, -122.0396685 37.563177, -122.0397195 37.5632833, -122.0397275 37.5633832, -122.0396954 37.5634938, -122.0396283 37.5635852, -122.0395291 37.5636554, -122.039403 37.5636957, -122.0392743 37.5637085, -122.0392059 37.5636957, -122.0391375 37.563683, -122.0390114 37.5636235, -122.0388987 37.5635512, -122.0376606 37.5625511)</data>
+    </edge>
+    <edge source="343659039" target="33155470" id="0">
+      <data key="d9">[156119540, 513706015]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">54.87977222502156</data>
+      <data key="d18">LINESTRING (-122.0731477 37.6174378, -122.0730988 37.6174439, -122.0730485 37.6174643, -122.0730017 37.6174942, -122.0729616 37.617542, -122.072935 37.6175819, -122.0729334 37.6176341, -122.0729495 37.6176803, -122.0729759 37.6177285, -122.0730713 37.6178039)</data>
+    </edge>
+    <edge source="490122587" target="257395031" id="0">
+      <data key="d9">[40461481, 964856812, 964856813]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['1', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">416.9684800309482</data>
+      <data key="d18">LINESTRING (-122.0019111 37.5300941, -122.0017114 37.5302783, -122.0016126 37.5303493, -122.0015869 37.5303658, -122.0015231 37.5303944, -122.0014096 37.5304255, -122.0012929 37.5304357, -122.0011685 37.5304231, -122.0010541 37.5303851, -122.0009558 37.5303227, -122.0008849 37.5302524, -122.0008376 37.5301777, -122.0008193 37.5300876, -122.0008243 37.5299975, -122.0008582 37.5299158, -122.0009088 37.5298431, -122.0009789 37.5297818, -122.0010818 37.5297282, -122.0012084 37.5297006, -122.0013276 37.5296968, -122.0014484 37.5297133, -122.0015741 37.5297479, -122.0017001 37.5297887, -122.0018452 37.5298477, -122.0034734 37.5305866)</data>
+    </edge>
+    <edge source="490122607" target="32816479" id="0">
+      <data key="d9">[1359581004, 6323061, 953051558, 953051559]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['1', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">477.3861288329389</data>
+      <data key="d18">LINESTRING (-122.0025949 37.5295379, -122.0029299 37.5293475, -122.0030326 37.5293018, -122.0031288 37.5292702, -122.0032214 37.5292517, -122.0032396 37.5292503, -122.0033225 37.5292439, -122.0034216 37.5292526, -122.003524 37.5292798, -122.0036128 37.5293206, -122.0036837 37.5293767, -122.0037364 37.5294355, -122.0037724 37.5295004, -122.0037941 37.5295635, -122.0037984 37.5296311, -122.003789 37.529701, -122.0037601 37.529765, -122.0037125 37.5298293, -122.003646 37.5298864, -122.003569 37.5299326, -122.0034798 37.5299673, -122.0033935 37.5299858, -122.003302 37.5299884, -122.0032086 37.529976, -122.0031037 37.5299487, -122.0029972 37.5299125, -122.0028696 37.5298612, -122.0027231 37.5297967, -122.0020724 37.5294768, -122.0018505 37.5293727, -122.0006144 37.5288095)</data>
+    </edge>
+    <edge source="547963197" target="33154394" id="0">
+      <data key="d9">[98969781, 155473862, 98969783]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d12">65 mph</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">659.9584872146529</data>
+      <data key="d18">LINESTRING (-122.095466 37.6464354, -122.0946013 37.6450312, -122.09442 37.64471, -122.0935027 37.6435306, -122.0933802 37.6433754, -122.093344 37.6432829, -122.0933396 37.643181, -122.0933664 37.6430771, -122.093434 37.6429852, -122.0935155 37.6429132, -122.0936418 37.642834, -122.0937908 37.6427985, -122.093968 37.6427929, -122.0941358 37.6428415, -122.0942467 37.6429113, -122.0943274 37.6429943, -122.0943362 37.6430033, -122.0943823 37.6430957, -122.0944069 37.6432004, -122.0944069 37.6432783, -122.0943984 37.643317, -122.0943946 37.6433343, -122.0940491 37.6441322)</data>
+    </edge>
+    <edge source="547963197" target="33144469" id="0">
+      <data key="d9">[156124108, 839809349]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">2</data>
+      <data key="d12">65 mph</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">491.57153030737067</data>
+      <data key="d18">LINESTRING (-122.095466 37.6464354, -122.0951823 37.6458063, -122.094959 37.6453113, -122.0948316 37.6450002, -122.0947172 37.6446365, -122.0946861 37.6443254, -122.0946943 37.6440077, -122.0947386 37.6437111, -122.0947985 37.6435157, -122.0948592 37.6433202, -122.0950231 37.6430032, -122.0950576 37.6429358, -122.0953228 37.6424202, -122.0953872 37.6422037)</data>
+    </edge>
+    <edge source="599818605" target="720619307" id="0">
+      <data key="d9">[47015427, 117034531, 392655227, 117034529]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">527.7008793019513</data>
+      <data key="d19">yes</data>
+      <data key="d18">LINESTRING (-122.0661391 37.6069406, -122.065687 37.6070067, -122.0656002 37.6070147, -122.0655181 37.6070095, -122.0654297 37.6069899, -122.0653489 37.6069554, -122.0652783 37.6069116, -122.0652235 37.6068616, -122.0651807 37.6068052, -122.0651476 37.6067448, -122.0651293 37.6066777, -122.065126 37.6066135, -122.065138 37.606544, -122.0651619 37.606481, -122.0651986 37.6064209, -122.0652559 37.606362, -122.0653206 37.6063155, -122.0653921 37.6062783, -122.0654719 37.6062509, -122.0655533 37.6062391, -122.0656333 37.6062362, -122.0657175 37.6062457, -122.0658042 37.6062662, -122.0658808 37.6062979, -122.0659526 37.6063441, -122.0660103 37.6063958, -122.0660721 37.6064727, -122.0662299 37.6066853, -122.0665174 37.6070839, -122.0676982 37.6087848)</data>
+    </edge>
+    <edge source="601720953" target="257394434" id="0">
+      <data key="d9">[965528993, 965528994, 47231511]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['1', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">386.61755210319484</data>
+      <data key="d18">LINESTRING (-122.0225384 37.5470031, -122.0224323 37.5470537, -122.0222794 37.5471367, -122.0222341 37.5471484, -122.0222044 37.5471561, -122.0221293 37.5471755, -122.0219662 37.5471811, -122.0218048 37.5471404, -122.021683 37.5470586, -122.0215969 37.5469554, -122.0215632 37.5468198, -122.0215874 37.5466922, -122.0216705 37.5465752, -122.02181 37.5464817, -122.0218285 37.5464774, -122.0219924 37.5464391, -122.0221533 37.546454, -122.0223008 37.5465008, -122.0224108 37.5465625, -122.022502 37.5466369, -122.0225851 37.546722, -122.0235655 37.5477925)</data>
+    </edge>
+    <edge source="601724127" target="257389899" id="0">
+      <data key="d9">932787131</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">164.20660126782025</data>
+      <data key="d18">LINESTRING (-122.099942 37.6533102, -122.0995926 37.6528273, -122.0993909 37.6525268, -122.0992408 37.652314, -122.0989526 37.6520671)</data>
+    </edge>
+    <edge source="601724128" target="1316708083" id="0">
+      <data key="d9">6318488</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">332.10935526607346</data>
+      <data key="d18">LINESTRING (-122.0998838 37.6544531, -122.0999874 37.6546597, -122.1000436 37.6547617, -122.1000843 37.6548603, -122.10011 37.654948, -122.1001253 37.6550463, -122.1001342 37.655141, -122.100137 37.6552288, -122.1001325 37.6553263, -122.1001175 37.655427, -122.100095 37.6555304, -122.0998095 37.6566876, -122.0997861 37.6567588, -122.0997495 37.656831, -122.0997065 37.6568947, -122.0996441 37.6569617, -122.0995674 37.65702, -122.0994814 37.6570719, -122.0992782 37.657219)</data>
+    </edge>
+    <edge source="601724128" target="10603580871" id="0">
+      <data key="d9">47233497</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">250.14519793216658</data>
+      <data key="d18">LINESTRING (-122.0998838 37.6544531, -122.1000304 37.6546426, -122.1008381 37.6558787, -122.101011 37.6561547, -122.1011966 37.6564475)</data>
+    </edge>
+    <edge source="601724136" target="1316708210" id="0">
+      <data key="d9">47233495</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">270.2288703698939</data>
+      <data key="d18">LINESTRING (-122.1017396 37.6562905, -122.1015425 37.6558797, -122.1015189 37.655812, -122.1015063 37.6557552, -122.1015009 37.6556894, -122.1015117 37.6556235, -122.1015398 37.6555588, -122.1015841 37.6554983, -122.1016444 37.6554431, -122.1017128 37.6554006, -122.1017933 37.6553677, -122.1018805 37.6553464, -122.1019801 37.6553402, -122.1020696 37.6553496, -122.1021554 37.655373, -122.1022359 37.655407, -122.1023083 37.6554558, -122.1023713 37.6555153, -122.1024102 37.6555811, -122.1024324 37.655643, -122.1024421 37.6557098, -122.1024372 37.6557736, -122.102417 37.6558373, -122.1023912 37.6558872, -122.1023563 37.655943, -122.1022868 37.655992, -122.1019583 37.6562033)</data>
+    </edge>
+    <edge source="601724136" target="601724127" id="0">
+      <data key="d9">47233496</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">367.27661648238364</data>
+      <data key="d18">LINESTRING (-122.1017396 37.6562905, -122.1014973 37.6558925, -122.1010978 37.6552338, -122.10092 37.6549265, -122.100512 37.6542406, -122.100211 37.6537287, -122.1000864 37.6535246, -122.099942 37.6533102)</data>
+    </edge>
+    <edge source="601724137" target="52978838" id="0">
+      <data key="d9">47233500</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">266.84817458052754</data>
+      <data key="d18">LINESTRING (-122.1012796 37.6565784, -122.1014614 37.6569637, -122.1014902 37.6570442, -122.1015023 37.6571153, -122.1014996 37.6571832, -122.1014741 37.6572554, -122.1014393 37.657316, -122.101387 37.6573712, -122.1013253 37.6574189, -122.1012488 37.6574614, -122.1011536 37.657489, -122.101049 37.6575028, -122.1009618 37.6575007, -122.10088 37.6574858, -122.1008089 37.6574604, -122.1007405 37.6574232, -122.1006829 37.6573828, -122.1006359 37.6573361, -122.1005984 37.6572788, -122.1005729 37.6572236, -122.1005595 37.6571609, -122.1005622 37.6571015, -122.1005742 37.6570346, -122.1005997 37.656973, -122.100648 37.6569019, -122.1007151 37.6568467, -122.1010407 37.6566431)</data>
+    </edge>
+    <edge source="601724137" target="601724126" id="0">
+      <data key="d9">516013723</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">233.1829714173615</data>
+      <data key="d18">LINESTRING (-122.1012796 37.6565784, -122.101503 37.6569477, -122.1023161 37.6583007, -122.1023991 37.6584782)</data>
+    </edge>
+    <edge source="610811229" target="3974638968" id="0">
+      <data key="d9">[6354809, 394456621]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['3', '1']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">398.97955273376857</data>
+      <data key="d18">LINESTRING (-122.0685814 37.6056732, -122.068436 37.6056625, -122.0683178 37.6056484, -122.0665741 37.6053041, -122.0664069 37.6052662, -122.0662681 37.6052229, -122.0661233 37.6051654, -122.0659896 37.6050969, -122.0658752 37.6050238, -122.065779 37.6049522, -122.0656882 37.6048695, -122.0656002 37.6047779, -122.0651249 37.6041842, -122.0648526 37.6039832)</data>
+    </edge>
+    <edge source="610811997" target="720616987" id="0">
+      <data key="d9">[6325849, 392657890, 274474198, 1358517158]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['1', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">690.5309097927405</data>
+      <data key="d19">yes</data>
+      <data key="d18">LINESTRING (-122.0650143 37.5981984, -122.0646055 37.598185, -122.0637376 37.598173, -122.0636115 37.5981702, -122.062873 37.5981543, -122.0626937 37.5981451, -122.0625121 37.598131, -122.0623422 37.5981097, -122.0621681 37.5980823, -122.0619986 37.5980456, -122.0618256 37.5979995, -122.0616537 37.5979471, -122.0614849 37.5978893, -122.061319 37.5978241, -122.0611593 37.5977511, -122.060995 37.5976666, -122.060845 37.5975809, -122.0607023 37.5974905, -122.0605589 37.5973882, -122.0604326 37.5972896, -122.0602882 37.5971614, -122.0601435 37.5970259, -122.0600332 37.5969158, -122.0599197 37.5967933, -122.0598081 37.5966678, -122.0594616 37.5962323, -122.0593815 37.5961384, -122.0591607 37.5958933, -122.0587313 37.5953795)</data>
+    </edge>
+    <edge source="660036207" target="1080537030" id="0">
+      <data key="d9">[23756314, 392662076]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">370.0532668376958</data>
+      <data key="d18">LINESTRING (-122.049758 37.579465, -122.0499622 37.5796187, -122.0500641 37.5797334, -122.0500686 37.5797441, -122.0501231 37.5798737, -122.0501339 37.5799928, -122.050091 37.5801076, -122.0500051 37.5802223, -122.0498764 37.5803074, -122.0497315 37.5803541, -122.0495813 37.5803669, -122.0494204 37.5803541, -122.0492917 37.5803031, -122.0491914 37.5802353, -122.0491683 37.5802138, -122.0490771 37.5800906, -122.0489752 37.579895, -122.0488518 37.5796102, -122.0486801 37.5791723, -122.0483944 37.5786399)</data>
+    </edge>
+    <edge source="720619307" target="257391140" id="0">
+      <data key="d9">[117034528, 117034523]</data>
+      <data key="d19">yes</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">301.1721555734797</data>
+      <data key="d18">LINESTRING (-122.0676982 37.6087848, -122.0677498 37.6088563, -122.0681344 37.6093889, -122.0682806 37.6095602, -122.0686564 37.6100007, -122.0689027 37.6103107, -122.0690874 37.6105433, -122.0693811 37.6109451, -122.0695611 37.6110353)</data>
+    </edge>
+    <edge source="721672724" target="257360302" id="0">
+      <data key="d9">184856739</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">467.40702439787424</data>
+      <data key="d18">LINESTRING (-122.0370198 37.5655935, -122.0373784 37.5652734, -122.03751 37.5651988, -122.0376571 37.5651385, -122.0378415 37.5650955, -122.0379809 37.5650812, -122.0382067 37.5650862, -122.0394754 37.5652606, -122.0396632 37.5652967, -122.0398375 37.5653435, -122.0399958 37.5653988, -122.0400494 37.5654244, -122.0401513 37.5654732, -122.0402854 37.5655518, -122.0404096 37.5656431, -122.0407425 37.5659367, -122.0414861 37.5664938)</data>
+    </edge>
+    <edge source="725437303" target="53002311" id="0">
+      <data key="d9">394407678</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">131.8703803152478</data>
+      <data key="d18">LINESTRING (-122.0210646 37.5489604, -122.0212019 37.5488706, -122.0213795 37.5487395, -122.0215947 37.5486061, -122.0218154 37.5484828, -122.0220541 37.5483977, -122.0223084 37.5483251)</data>
+    </edge>
+    <edge source="725437321" target="257394436" id="0">
+      <data key="d9">[82486444, 1427255380]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['1', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">397.59246208484194</data>
+      <data key="d18">LINESTRING (-122.0232091 37.5463471, -122.023312 37.5462903, -122.0234461 37.5462222, -122.023591 37.5461818, -122.0237358 37.5461712, -122.0238726 37.5461925, -122.0239933 37.5462435, -122.0240899 37.5463179, -122.0241569 37.5464136, -122.0241864 37.5465136, -122.0241784 37.5466114, -122.0241408 37.5467135, -122.0240765 37.5467943, -122.0239719 37.5468623, -122.0238485 37.5469113, -122.0237224 37.546924, -122.0235856 37.5469113, -122.0234649 37.5468708, -122.0233469 37.5468028, -122.0232423 37.5467241, -122.0231323 37.5466135, -122.0221452 37.5454846)</data>
+    </edge>
+    <edge source="725438834" target="601720947" id="0">
+      <data key="d9">[1357142021, 969987881, 394407737, 394407738, 6322751]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['3', '1', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">536.6218366083493</data>
+      <data key="d18">LINESTRING (-122.0243313 37.544657, -122.0241221 37.5448952, -122.0239906 37.5449909, -122.0238567 37.5450617, -122.0238458 37.5450675, -122.0237009 37.5451313, -122.02354 37.5451717, -122.0233844 37.5451908, -122.0232047 37.5451887, -122.0230115 37.5451678, -122.0228239 37.5451313, -122.0226576 37.5450845, -122.0224832 37.5450207, -122.0223169 37.544942, -122.0221855 37.5448676, -122.0220668 37.5447942, -122.0219092 37.5446698, -122.0217134 37.5444848, -122.0211555 37.5439382, -122.0199767 37.5426375)</data>
+    </edge>
+    <edge source="1078563206" target="720619307" id="0">
+      <data key="d9">[93158762, 392655226]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">268.700148529711</data>
+      <data key="d18">LINESTRING (-122.0656324 37.6072372, -122.0658706 37.6072131, -122.0659968 37.607212, -122.0662201 37.607248, -122.0663749 37.6073248, -122.0665128 37.6074234, -122.0676982 37.6087848)</data>
+    </edge>
+    <edge source="1316708251" target="10603580871" id="0">
+      <data key="d9">6326344</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">264.76600399811514</data>
+      <data key="d18">LINESTRING (-122.1009927 37.6565696, -122.1006316 37.6566429, -122.1005394 37.6566534, -122.1004387 37.6566524, -122.1003532 37.6566336, -122.1002741 37.6566041, -122.1002093 37.6565669, -122.1001449 37.6565157, -122.1000922 37.6564551, -122.1000593 37.6563933, -122.1000405 37.6563169, -122.1000365 37.6562404, -122.1000566 37.6561682, -122.1000955 37.6560928, -122.1001531 37.6560281, -122.1002242 37.6559771, -122.1003033 37.6559399, -122.1003811 37.6559166, -122.100471 37.6559028, -122.1005675 37.6559038, -122.1006547 37.6559187, -122.1007325 37.6559453, -122.1008022 37.6559867, -122.1008666 37.6560429, -122.1009149 37.6560971, -122.1009703 37.6561665, -122.1011966 37.6564475)</data>
+    </edge>
+    <edge source="1316773653" target="257395023" id="0">
+      <data key="d9">[154042081, 394423675, 394423676, 1115199821]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['1', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">478.5407859478221</data>
+      <data key="d18">LINESTRING (-122.0015958 37.5322831, -122.0017246 37.5319606, -122.0017596 37.5318487, -122.0017915 37.531772, -122.001834 37.5317059, -122.0018959 37.5316373, -122.0019725 37.5315758, -122.002066 37.5315249, -122.0021719 37.5314844, -122.0022951 37.5314523, -122.0033412 37.5312781, -122.0035037 37.5312573, -122.0036525 37.5312454, -122.0038003 37.5312392, -122.0039346 37.5312429, -122.0040743 37.5312583, -122.0042134 37.5312866, -122.0043436 37.5313275, -122.0045546 37.5313925, -122.0047544 37.5314666, -122.0049716 37.5315585, -122.0057952 37.5319572, -122.0061082 37.5320525)</data>
+    </edge>
+    <edge source="1642975892" target="1642975894" id="0">
+      <data key="d9">[68833172, 68833157]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['3', '2']</data>
+      <data key="d12">65 mph</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">343.58827170270933</data>
+      <data key="d19">yes</data>
+      <data key="d18">LINESTRING (-122.0954763 37.641418, -122.0952945 37.6417297, -122.0951019 37.641981, -122.0949634 37.6421333, -122.0947891 37.642283, -122.0942161 37.6426914, -122.0937513 37.6430247, -122.0934778 37.6432963, -122.0932858 37.6435503, -122.093204 37.6436978, -122.093143 37.6438397)</data>
+    </edge>
+    <edge source="1642975892" target="3974818867" id="0">
+      <data key="d9">155473858</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d12">65 mph</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">512.7339351079008</data>
+      <data key="d18">LINESTRING (-122.0954763 37.641418, -122.0951294 37.641784, -122.0949573 37.6419568, -122.094686 37.6421841, -122.0943672 37.6424144, -122.0941305 37.6425215, -122.0936571 37.642687, -122.0934635 37.6427259, -122.0932791 37.6427405, -122.0931469 37.6427259, -122.0930147 37.6426967, -122.0928918 37.6426578, -122.0928104 37.6426176, -122.0927289 37.6425774, -122.0926244 37.6425093, -122.0925629 37.6424484, -122.0919621 37.6417093, -122.0915327 37.641137, -122.0913517 37.6411023)</data>
+    </edge>
+    <edge source="1642975894" target="33144974" id="0">
+      <data key="d9">[151481865, 151481863]</data>
+      <data key="d19">yes</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">236.55415093898122</data>
+      <data key="d18">LINESTRING (-122.093143 37.6438397, -122.093048 37.6440043, -122.0929815 37.6442983, -122.0929555 37.6446722, -122.0929556 37.6448015, -122.0929941 37.6455218, -122.0929687 37.645757, -122.0929086 37.6459378)</data>
+    </edge>
+    <edge source="1642975894" target="3974818880" id="0">
+      <data key="d9">[510309960, 864620591, 394475535, 394475538, 108177460]</data>
+      <data key="d19">yes</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['3', '2']</data>
+      <data key="d12">65 mph</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">461.5340755614537</data>
+      <data key="d18">LINESTRING (-122.093143 37.6438397, -122.0930957 37.6441746, -122.0930824 37.644451, -122.0931172 37.6447498, -122.0932217 37.6450924, -122.0934341 37.6454286, -122.0935456 37.6455561, -122.0936666 37.6456854, -122.0940102 37.6459553, -122.0943119 37.6462326, -122.0947506 37.6466359, -122.0948667 37.6467629, -122.0950686 37.646982, -122.0953011 37.6472675, -122.0954686 37.6473221)</data>
+    </edge>
+    <edge source="1666847604" target="53013547" id="0">
+      <data key="d9">[6326200, 1097274710, 1097274711]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['3', '1']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">462.110880735479</data>
+      <data key="d18">LINESTRING (-121.9862944 37.5244823, -121.9866142 37.524209, -121.9868594 37.5240624, -121.9871096 37.5239618, -121.9871192 37.5239579, -121.9873029 37.5239142, -121.9874162 37.5238874, -121.9885174 37.5237114, -121.9887964 37.5236859, -121.9890324 37.5236902, -121.9892577 37.5237114, -121.9895014 37.523758, -121.9897298 37.5238263, -121.9900248 37.5239284, -121.9903199 37.524039, -121.9907061 37.5242007, -121.9910997 37.5243041)</data>
+    </edge>
+    <edge source="1678683820" target="3974818866" id="0">
+      <data key="d9">151481866</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">2</data>
+      <data key="d12">65 mph</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">653.4730467362384</data>
+      <data key="d18">LINESTRING (-122.1026264 37.6350482, -122.1008681 37.6357034, -122.1001974 37.6359765, -122.0995783 37.6362864, -122.0990216 37.6366227, -122.0985218 37.636989, -122.0979526 37.6374928, -122.0974749 37.638073, -122.0971801 37.6384656, -122.0970332 37.6386773)</data>
+    </edge>
+    <edge source="1678683820" target="1678683886" id="0">
+      <data key="d9">[395495329, 392611370, 392611371, 155473875, 155473855]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['3', '1', '2']</data>
+      <data key="d12">65 mph</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">314.11673712478745</data>
+      <data key="d18">LINESTRING (-122.1026264 37.6350482, -122.1021621 37.6351714, -122.1014687 37.6353732, -122.1012649 37.6354274, -122.1010979 37.6354576, -122.1010706 37.6354627, -122.1010472 37.6354674, -122.1010316 37.6354699, -122.1008151 37.6355046, -122.1006547 37.6355255, -122.1003647 37.6355511, -122.1001302 37.6355547, -122.0998652 37.6355506, -122.0997911 37.6355571, -122.0997555 37.6355602, -122.0997351 37.635562, -122.0996749 37.6355994, -122.0995898 37.6357743, -122.0995234 37.6358179, -122.0995011 37.6358326, -122.0994073 37.6359255)</data>
+    </edge>
+    <edge source="1678683823" target="1678683886" id="0">
+      <data key="d9">155473859</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">2</data>
+      <data key="d12">65 mph</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">57.949105905442174</data>
+      <data key="d18">LINESTRING (-122.0993602 37.6354079, -122.0993843 37.6355965, -122.0994058 37.635706, -122.0994125 37.6357497, -122.0994212 37.6358058, -122.099415 37.6358716, -122.0994073 37.6359255)</data>
+    </edge>
+    <edge source="1678683886" target="3974818866" id="0">
+      <data key="d9">[155473859, 839809348]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['1', '2']</data>
+      <data key="d12">65 mph</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">376.733843599059</data>
+      <data key="d18">LINESTRING (-122.0994073 37.6359255, -122.0993997 37.6359787, -122.0993689 37.6360833, -122.0993074 37.6362002, -122.0992306 37.6363073, -122.09908 37.6364436, -122.098872 37.6365891, -122.0985704 37.6368019, -122.0982379 37.6370766, -122.0979494 37.6373491, -122.0973975 37.6380246, -122.0971314 37.6384342, -122.0970332 37.6386773)</data>
+    </edge>
+    <edge source="1684055114" target="2230688700" id="0">
+      <data key="d9">[392651136, 156115132]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">282.92024592638825</data>
+      <data key="d18">LINESTRING (-122.0826217 37.6296299, -122.0827551 37.6299112, -122.0827997 37.6300619, -122.0827997 37.6302175, -122.0827936 37.6302865, -122.0827693 37.6303748, -122.0827511 37.6304389, -122.0827106 37.6305432, -122.0826721 37.6306106, -122.082587 37.6307325, -122.0824999 37.6308335, -122.0824189 37.6309057, -122.0823561 37.6309603, -122.0821941 37.6310661, -122.0820179 37.6311576, -122.0817608 37.6312538, -122.0816796 37.6312699, -122.0813818 37.6313141, -122.0811027 37.6313721)</data>
+    </edge>
+    <edge source="1684055114" target="1684055185" id="0">
+      <data key="d9">516003136</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">179.0120031317588</data>
+      <data key="d18">LINESTRING (-122.0826217 37.6296299, -122.0828144 37.6298857, -122.0831299 37.6302929, -122.0834789 37.6307463, -122.0836642 37.6310117)</data>
+    </edge>
+    <edge source="1684055115" target="33154553" id="0">
+      <data key="d9">516003135</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">251.82799190476115</data>
+      <data key="d18">LINESTRING (-122.0835347 37.6298664, -122.0821137 37.6280215, -122.0819878 37.6279931)</data>
+    </edge>
+    <edge source="1684055185" target="1684055233" id="0">
+      <data key="d9">965547210</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">66.43090077661724</data>
+    </edge>
+    <edge source="1684055213" target="33154542" id="0">
+      <data key="d9">[685748786, 156115124, 1357159463]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['1', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">458.6965960745288</data>
+      <data key="d18">LINESTRING (-122.0806647 37.6315146, -122.0815562 37.6316114, -122.081808 37.6316626, -122.0820257 37.6317284, -122.0822766 37.6318355, -122.0824426 37.6319263, -122.0828077 37.6321707, -122.0831915 37.6324248, -122.0833405 37.632511, -122.0834923 37.6325655, -122.0836413 37.6326086, -122.0838096 37.6326668, -122.0840423 37.6327106, -122.084598 37.6328513, -122.0847756 37.6329193, -122.0849475 37.6330282, -122.0850363 37.6331008, -122.0852398 37.6332643)</data>
+    </edge>
+    <edge source="1684055215" target="2230688731" id="0">
+      <data key="d9">156115133</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">266.6894515394158</data>
+      <data key="d18">LINESTRING (-122.0846115 37.631339, -122.0845747 37.6311511, -122.0845545 37.6310597, -122.0845484 37.6309843, -122.0845565 37.6309057, -122.0845889 37.63084, -122.0846517 37.6307678, -122.0847489 37.6306908, -122.0848401 37.6306507, -122.0849393 37.6306202, -122.0850112 37.6306085, -122.0851057 37.6306039, -122.0852174 37.6306085, -122.0853234 37.6306311, -122.0854322 37.6306765, -122.0855182 37.6307332, -122.0856286 37.6308278, -122.0856732 37.6309016, -122.0857178 37.6309979, -122.0857178 37.6310813, -122.0857178 37.6311711, -122.085657 37.6312802, -122.0855274 37.6313796, -122.085417 37.6314295, -122.0854002 37.6314372, -122.0852478 37.6314695, -122.0852013 37.6314915)</data>
+    </edge>
+    <edge source="1684055215" target="1684055115" id="0">
+      <data key="d9">516003135</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">189.22108555007597</data>
+      <data key="d18">LINESTRING (-122.0846115 37.631339, -122.0837766 37.6301972, -122.0835347 37.6298664)</data>
+    </edge>
+    <edge source="1684055230" target="1684055286" id="0">
+      <data key="d9">156115126</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">241.51752129228743</data>
+      <data key="d18">LINESTRING (-122.0852586 37.6315906, -122.085642 37.6316924, -122.0857667 37.6317261, -122.085867 37.6317692, -122.0859529 37.6318282, -122.0860045 37.6318713, -122.0860388 37.631928, -122.0860761 37.6319938, -122.0860961 37.6320913, -122.0860847 37.6321775, -122.0860474 37.6322547, -122.0859844 37.6323273, -122.0858956 37.6323908, -122.0858039 37.6324271, -122.0857266 37.6324361, -122.0856435 37.6324361, -122.0855805 37.6324225, -122.085506 37.6323908, -122.0854144 37.6323363, -122.0850339 37.6319331)</data>
+    </edge>
+    <edge source="1684055233" target="33154542" id="0">
+      <data key="d9">156115118</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">220.09602752201522</data>
+      <data key="d18">LINESTRING (-122.0839984 37.6315473, -122.0840985 37.6317134, -122.0843104 37.6320257, -122.0849225 37.6328414, -122.0852398 37.6332643)</data>
+    </edge>
+    <edge source="1684055233" target="1684055224" id="0">
+      <data key="d9">[394469161, 156115140]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">302.44442384397144</data>
+      <data key="d18">LINESTRING (-122.0839984 37.6315473, -122.0841372 37.631851, -122.0841741 37.6319356, -122.0841844 37.6320235, -122.0841803 37.6321, -122.0841639 37.6321602, -122.0841269 37.6322286, -122.0840755 37.6322871, -122.08402 37.6323311, -122.0839399 37.6323799, -122.08387 37.6324076, -122.0837693 37.6324222, -122.0836954 37.6324304, -122.0835906 37.6324271, -122.0834858 37.6324157, -122.0834056 37.6323994, -122.0833214 37.6323636, -122.0832433 37.6323246, -122.0831775 37.6322823, -122.0831138 37.6322237, -122.0830666 37.6321618, -122.0830378 37.6321049, -122.0830214 37.6320349, -122.0830111 37.6319666, -122.0830193 37.6319129, -122.0830398 37.6318575, -122.0830707 37.6317973, -122.08312 37.6317322, -122.0831673 37.6316834, -122.0832392 37.6316411, -122.0833135 37.6316167, -122.08333 37.6316106, -122.0837338 37.6315354)</data>
+    </edge>
+    <edge source="1684055286" target="1684055215" id="0">
+      <data key="d9">952348337</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">75.81343836559374</data>
+    </edge>
+    <edge source="1684055401" target="1684055286" id="0">
+      <data key="d9">516011935</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">191.99555801460798</data>
+    </edge>
+    <edge source="1684055401" target="1684055239" id="0">
+      <data key="d9">156115119</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">295.1761605621184</data>
+      <data key="d18">LINESTRING (-122.0861241 37.6334284, -122.0859529 37.6330486, -122.0859271 37.6329012, -122.08593 37.6327946, -122.0859443 37.6326811, -122.0860016 37.6325473, -122.0860875 37.6323794, -122.0861935 37.6322524, -122.0863224 37.6321186, -122.0864771 37.6320029, -122.0866375 37.6319121, -122.0868323 37.6318259, -122.0869784 37.6317851, -122.0871073 37.6317556, -122.0873238 37.6317343, -122.0877419 37.6316788)</data>
+    </edge>
+    <edge source="1684084805" target="33155470" id="0">
+      <data key="d9">156119544</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">120.8518998566596</data>
+      <data key="d18">LINESTRING (-122.0717492 37.6175159, -122.0720241 37.6175627, -122.0721754 37.6175899, -122.072316 37.6176257, -122.0730713 37.6178039)</data>
+    </edge>
+    <edge source="2230688708" target="1684055185" id="0">
+      <data key="d9">[156115139, 392651135]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">240.50577087926223</data>
+      <data key="d18">LINESTRING (-122.0835111 37.6314531, -122.0831185 37.6313573, -122.0829946 37.631327, -122.0828611 37.6312782, -122.0827912 37.6312326, -122.0827357 37.6311854, -122.0827008 37.631135, -122.0826741 37.631091, -122.0826535 37.6310357, -122.0826412 37.6309852, -122.0826391 37.6309462, -122.0826391 37.6308941, -122.0826739 37.6308091, -122.0826939 37.6307724, -122.0827208 37.6307375, -122.0827467 37.6307085, -122.0827748 37.6306826, -122.0828053 37.6306599, -122.0828359 37.6306407, -122.0828703 37.6306226, -122.0829061 37.6306063, -122.0829453 37.6305917, -122.0829832 37.6305817, -122.0830188 37.6305761, -122.0830526 37.6305735, -122.0830882 37.6305734, -122.0831267 37.6305764, -122.0831597 37.6305809, -122.0831911 37.6305872, -122.083223 37.6305973, -122.0832522 37.6306099, -122.0832797 37.6306236, -122.0833039 37.6306383, -122.0833236 37.6306537, -122.0833446 37.6306719, -122.0833699 37.6306966, -122.0833966 37.6307258, -122.0836642 37.6310117)</data>
+    </edge>
+    <edge source="2230688741" target="1684055115" id="0">
+      <data key="d9">[1357120681, 690322443, 685748788, 156115125]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['1', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">472.92623226608316</data>
+      <data key="d18">LINESTRING (-122.0883226 37.6315601, -122.0875387 37.631485, -122.0872352 37.6314507, -122.0869555 37.6314017, -122.0868977 37.6313867, -122.0865373 37.631261, -122.0863854 37.6311726, -122.0856292 37.6306667, -122.0853929 37.6305457, -122.0852626 37.6304897, -122.0850821 37.6304239, -122.0849417 37.6303854, -122.0848589 37.6303682, -122.0840795 37.6301744, -122.0839392 37.630129, -122.0838647 37.6300859, -122.0837759 37.6300269, -122.08371 37.6299748, -122.0835347 37.6298664)</data>
+    </edge>
+    <edge source="3679821270" target="257395396" id="0">
+      <data key="d9">[23756704, 972255240, 972255239]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['1', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">400.5934255056718</data>
+      <data key="d18">LINESTRING (-121.9879948 37.522107, -121.9883495 37.5218736, -121.9885059 37.5218257, -121.9885173 37.5218241, -121.9885449 37.5218204, -121.9886606 37.5218045, -121.9888296 37.5218412, -121.9889841 37.5219203, -121.9890753 37.5220309, -121.9891075 37.5221543, -121.9890968 37.5222777, -121.9890324 37.5224138, -121.9888983 37.5225117, -121.988794 37.5225459, -121.9887427 37.5225627, -121.9886104 37.522572, -121.9885603 37.5225755, -121.9883565 37.5225372, -121.9881848 37.5224819, -121.9875679 37.5222053, -121.987289 37.5220904, -121.9865805 37.5218288)</data>
+    </edge>
+    <edge source="3958520250" target="33155422" id="0">
+      <data key="d9">[538908308, 156119543]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">36.81358732130451</data>
+      <data key="d18">LINESTRING (-122.0757002 37.6175248, -122.0757002 37.617611, -122.0756975 37.6176999, -122.0756927 37.6178558)</data>
+    </edge>
+    <edge source="3974638964" target="52982389" id="0">
+      <data key="d9">394456598</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">242.29127066548054</data>
+      <data key="d18">LINESTRING (-122.0574119 37.5973524, -122.0574939 37.5974632, -122.0579085 37.597679, -122.0580485 37.5977659, -122.0581841 37.5978635, -122.0583097 37.5979679, -122.0584237 37.5980758, -122.0585209 37.5981803, -122.0586047 37.598284, -122.058686 37.5983952, -122.0589512 37.5987801, -122.0590624 37.5989319, -122.059142 37.5989975)</data>
+    </edge>
+    <edge source="3974717404" target="33155422" id="0">
+      <data key="d9">745136297</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">70.14002525336923</data>
+      <data key="d18">LINESTRING (-122.075074 37.6175954, -122.0751736 37.6176383, -122.0755123 37.6176474, -122.0756035 37.617676, -122.075626 37.6176973, -122.0756927 37.6178558)</data>
+    </edge>
+    <edge source="3974818866" target="1642975892" id="0">
+      <data key="d9">394475536</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">3</data>
+      <data key="d12">65 mph</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">334.31414938171156</data>
+      <data key="d18">LINESTRING (-122.0970332 37.6386773, -122.0963057 37.6400671, -122.0954763 37.641418)</data>
+    </edge>
+    <edge source="5058029099" target="257362967" id="0">
+      <data key="d9">[1053810218, 6321040, 394390163, 1357116663, 392662074]</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">['3', '1', '2']</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">516.3605978003955</data>
+      <data key="d18">LINESTRING (-122.0505523 37.5796452, -122.0502641 37.579425, -122.0496601 37.5790343, -122.0496326 37.5790165, -122.0494526 37.5788874, -122.0492863 37.5787344, -122.0484905 37.5778294, -122.0484602 37.5777948, -122.0482778 37.577544, -122.0481437 37.5773399, -122.0480418 37.5771401, -122.0479506 37.5769445, -122.0477521 37.5764301, -122.0474393 37.5758191)</data>
+    </edge>
+    <edge source="7110956589" target="53007880" id="0">
+      <data key="d9">[1041358736, 6325073, 761105021, 761105022, 761105023]</data>
+      <data key="d19">yes</data>
+      <data key="d10">motorway_link</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">467.4795451077877</data>
+      <data key="d11">['1', '2']</data>
+      <data key="d18">LINESTRING (-122.0608767 37.5987961, -122.0609479 37.5988425, -122.0610947 37.5988467, -122.0613074 37.5988354, -122.0616796 37.5987921, -122.0620287 37.5987217, -122.0620726 37.5987192, -122.0621708 37.5987189, -122.0622724 37.5987288, -122.0623583 37.5987538, -122.0624385 37.5987941, -122.0625042 37.5988436, -122.0625547 37.598902, -122.0625948 37.5989682, -122.0626168 37.599037, -122.0626202 37.5991023, -122.06261 37.5991715, -122.0625833 37.5992398, -122.0625371 37.5993051, -122.0624802 37.599358, -122.0624096 37.5994031, -122.0623294 37.5994386, -122.0622404 37.599459, -122.0621497 37.5994653, -122.0620616 37.5994569, -122.0619706 37.5994327, -122.0618942 37.5993978, -122.0618176 37.5993541, -122.0617542 37.5993054, -122.0616931 37.5992459, -122.0616203 37.5991602, -122.0614796 37.5989892, -122.0610644 37.5984618, -122.0609744 37.598354, -122.0605768 37.5979699)</data>
+    </edge>
+    <edge source="10603580871" target="601724137" id="0">
+      <data key="d9">1137537031</data>
+      <data key="d10">motorway_link</data>
+      <data key="d11">1</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">16.28642538714531</data>
+    </edge>
+    <edge source="13264636193" target="8672211521" id="0">
+      <data key="d9">1445731042</data>
+      <data key="d10">motorway_link</data>
+      <data key="d14">True</data>
+      <data key="d16">False</data>
+      <data key="d17">21.66809144022534</data>
+    </edge>
+    <data key="d0">2025-12-08 17:32:46</data>
+    <data key="d1">OSMnx 2.0.6</data>
+    <data key="d2">epsg:4326</data>
+    <data key="d3">True</data>
+  </graph>
+</graphml>

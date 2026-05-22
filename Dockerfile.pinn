@@ -15,7 +15,7 @@ COPY data ./data
 
 # Install the local project only, without modifying already-installed dependencies.
 RUN uv pip install --no-deps .
-# WANDB_API_KEY must be supplied at runtime via -e or Vertex AI env vars.
+# WANDB_API_KEY must be supplied at runtime via -e
 # Never bake credentials into the image.
 ENV WANDB_API_KEY=""
 
