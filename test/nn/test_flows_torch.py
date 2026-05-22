@@ -22,7 +22,10 @@ class TestTorchImplFromNumpy:
         assert torch.isclose(torch_flow.rho_max, torch.tensor(10.0))
 
     def test_arz_conversion(self) -> None:
-        numpy_flow = numpy_flows.ARZFlow(v_max=30.0, rho_max=0.2, gamma=1.5, tau=3.0)
+        numpy_flow = numpy_flows.ARZFlow(
+            flux_function=numpy_flows.PowerLawFlux(v_max=30.0, rho_max=0.2, gamma=1.5),
+            tau=3.0,
+        )
         torch_flow = torch_implem_from_numpy(numpy_flow)
         assert torch.isclose(torch_flow.v_max, torch.tensor(30.0))
         assert torch.isclose(torch_flow.rho_max, torch.tensor(0.2))

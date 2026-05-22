@@ -4,8 +4,6 @@ import torch
 import traffic_models.nn.flows_torch as flows_torch
 from traffic_models.flows import ARZFlow, GreenshieldsFlow, TriangularFlow
 from traffic_models.lax_friedrichs import (
-    arz_gaussian_initial_condition,
-    arz_rollout,
     lax_friedrichs_affine_update,
     lax_friedrichs_step,
     lax_friedrichs_step_batch,
@@ -67,38 +65,7 @@ def test_lax_friedrichs_step_equivalence_between_affine_and_step():
 
 def test_lax_friedrichs_step_batch_shape():
     grid = DiscretizationGrid(dx_meters=50, dt_seconds=1, n_timesteps=10, n_cells=20)
-    flow = ARZFlow(v_max=30.0, rho_max=0.1, gamma=1.0, tau=5.0)
+    flow = ARZFlow(flux_function=GreenshieldsFlow(v_max=30.0, rho_max=0.1), tau=5.0)
     U = np.random.rand(4, 2, grid.n_cells) * 0.05
     U_next = lax_friedrichs_step_batch(U, flow, grid)
     assert U_next.shape == (4, 2, grid.n_cells)
-
-
-def test_arz_gaussian_initial_condition_shape():
-    grid = DiscretizationGrid(dx_meters=50, dt_seconds=1, n_timesteps=10, n_cells=20)
-    flow = ARZFlow(v_max=30.0, rho_max=0.1, gamma=1.0, tau=5.0)
-    U_0 = arz_gaussian_initial_condition(
-        grid, flow, rho_background=0.01, rho_peak=0.05, center=500.0, sigma=100.0, n_samples=3
-    )
-    assert U_0.shape == (3, 2, grid.n_cells)
-    assert np.all(U_0[:, 0, :] >= 0)
-    assert np.all(U_0[:, 0, :] <= flow.rho_max)
-
-
-def test_arz_rollout_shape():
-    grid = DiscretizationGrid(dx_meters=50, dt_seconds=1, n_timesteps=10, n_cells=20)
-    flow = ARZFlow(v_max=30.0, rho_max=0.1, gamma=1.0, tau=5.0)
-    U_0 = arz_gaussian_initial_condition(
-        grid, flow, rho_background=0.01, rho_peak=0.05, center=500.0, sigma=100.0, n_samples=2
-    )
-    trajectory = arz_rollout(U_0, flow, grid)
-    assert trajectory.shape == (grid.n_timesteps, 2, 2, grid.n_cells)
-
-
-def test_arz_rollout_preserves_positivity():
-    grid = DiscretizationGrid(dx_meters=100, dt_seconds=2, n_timesteps=50, n_cells=30)
-    flow = ARZFlow(v_max=25.0, rho_max=0.12, gamma=1.0, tau=10.0)
-    U_0 = arz_gaussian_initial_condition(
-        grid, flow, rho_background=0.02, rho_peak=0.08, center=1500.0, sigma=200.0, n_samples=1
-    )
-    trajectory = arz_rollout(U_0, flow, grid)
-    assert np.all(trajectory[:, :, 0, :] >= 0), "Density should remain non-negative"

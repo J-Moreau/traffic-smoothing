@@ -15,7 +15,7 @@ def test_naive_physics_on_trajectories_runs_and_shapes():
     n_timesteps = 3
     data = {
         "vehicle_id": ["v1", "v1", "v1", "v2", "v2"],
-        "time_seconds": [0, 1, 2, 0, 1],
+        "t_index": [0, 1, 2, 0, 1],
         "x_meters": [0, 10, 20, 5, 15],
         "velocity": [5, 6, 7, 4, 5],
         "x_index": [0, 1, 2, 0, 1],
@@ -48,6 +48,6 @@ def test_naive_physics_on_trajectories_runs_and_shapes():
     assert isinstance(result, NaivePhysicsResult)
     assert result.v_hat.shape == (n_timesteps, n_cells)
     assert result.rho_hat.shape == (n_timesteps, n_cells)
-    # Check that the first row matches v_0 
-    # except in cell 0 where v= 5+4 / 2
-    np.testing.assert_array_equal(result.v_hat[0], [4.5, 5, 5, 5])
+    # The filter uses a ±2 timestep window, so t_index 0..2 rows are all included at i=0.
+    # x_index=0: mean([5,4])=4.5, x_index=1: mean([6,5])=5.5, x_index=2: mean([7])=7.0, x_index=3: no data → 5.0
+    np.testing.assert_array_equal(result.v_hat[0], [4.5, 5.5, 7.0, 5.0])

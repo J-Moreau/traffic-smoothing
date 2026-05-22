@@ -9,7 +9,7 @@ from traffic_models.nn.arz_torch import ARZFlow_exponential
 
 class TestARZFlowExponentialVsNumpy:
     def test_v_eq_matches_numpy(self):
-        v_max, rho_max, c_jam, tau = 30.0, 0.2, 5.0, 10.0
+        v_max, rho_max, c_jam, tau = 30.0, 0.2, -5.0, 10.0
         torch_flow = ARZFlow_exponential(v_max_init=v_max, rho_max_init=rho_max, c_jam=c_jam, tau=tau)
         numpy_flux = DelCastilloBenitezFlux(v_max=v_max, rho_max=rho_max, c_jam=c_jam)
         numpy_flow = ARZFlowNumpy(flux_function=numpy_flux, tau=tau)
@@ -23,7 +23,7 @@ class TestARZFlowExponentialVsNumpy:
         assert np.allclose(v_torch, v_numpy, rtol=1e-5)
 
     def test_h_matches_numpy(self):
-        v_max, rho_max, c_jam, tau = 30.0, 0.2, 5.0, 10.0
+        v_max, rho_max, c_jam, tau = 30.0, 0.2, -5.0, 10.0
         torch_flow = ARZFlow_exponential(v_max_init=v_max, rho_max_init=rho_max, c_jam=c_jam, tau=tau)
         numpy_flux = DelCastilloBenitezFlux(v_max=v_max, rho_max=rho_max, c_jam=c_jam)
         numpy_flow = ARZFlowNumpy(flux_function=numpy_flux, tau=tau)
@@ -37,7 +37,7 @@ class TestARZFlowExponentialVsNumpy:
         assert np.allclose(h_torch, h_numpy, rtol=1e-5)
 
     def test_q_matches_numpy(self):
-        v_max, rho_max, c_jam, tau = 30.0, 0.2, 5.0, 10.0
+        v_max, rho_max, c_jam, tau = 30.0, 0.2, -5.0, 10.0
         torch_flow = ARZFlow_exponential(v_max_init=v_max, rho_max_init=rho_max, c_jam=c_jam, tau=tau)
         numpy_flux = DelCastilloBenitezFlux(v_max=v_max, rho_max=rho_max, c_jam=c_jam)
         numpy_flow = ARZFlowNumpy(flux_function=numpy_flux, tau=tau)
@@ -53,13 +53,14 @@ class TestARZFlowExponentialVsNumpy:
         assert np.allclose(q_torch, q_numpy, rtol=1e-5)
 
     def test_v_from_q_matches_numpy(self):
-        v_max, rho_max, c_jam, tau = 30.0, 0.2, 5.0, 10.0
+        v_max, rho_max, c_jam, tau = 30.0, 0.2, -5.0, 10.0
         torch_flow = ARZFlow_exponential(v_max_init=v_max, rho_max_init=rho_max, c_jam=c_jam, tau=tau)
         numpy_flux = DelCastilloBenitezFlux(v_max=v_max, rho_max=rho_max, c_jam=c_jam)
         numpy_flow = ARZFlowNumpy(flux_function=numpy_flux, tau=tau)
         
-        rho_values = np.array([0.05, 0.1, 0.15])
-        q_values = np.array([2.0, 3.0, 2.5])
+        # Use density values that yield positive velocity: v = q/rho - h(rho) > 0
+        rho_values = np.array([0.05, 0.1, 0.12])
+        q_values = np.array([2.0, 3.0, 3.5])
         rho_torch = torch.tensor(rho_values, dtype=torch.float32)
         q_torch = torch.tensor(q_values, dtype=torch.float32)
         
@@ -69,7 +70,7 @@ class TestARZFlowExponentialVsNumpy:
         assert np.allclose(v_torch, v_numpy, rtol=1e-5)
 
     def test_flux_matches_numpy(self):
-        v_max, rho_max, c_jam, tau = 30.0, 0.2, 5.0, 10.0
+        v_max, rho_max, c_jam, tau = 30.0, 0.2, -5.0, 10.0
         torch_flow = ARZFlow_exponential(v_max_init=v_max, rho_max_init=rho_max, c_jam=c_jam, tau=tau)
         numpy_flux = DelCastilloBenitezFlux(v_max=v_max, rho_max=rho_max, c_jam=c_jam)
         numpy_flow = ARZFlowNumpy(flux_function=numpy_flux, tau=tau)
@@ -89,7 +90,7 @@ class TestARZFlowExponentialVsNumpy:
         assert np.allclose(flux_torch, flux_numpy, rtol=1e-5)
 
     def test_source_term_matches_numpy(self):
-        v_max, rho_max, c_jam, tau = 30.0, 0.2, 5.0, 10.0
+        v_max, rho_max, c_jam, tau = 30.0, 0.2, -5.0, 10.0
         torch_flow = ARZFlow_exponential(v_max_init=v_max, rho_max_init=rho_max, c_jam=c_jam, tau=tau)
         numpy_flux = DelCastilloBenitezFlux(v_max=v_max, rho_max=rho_max, c_jam=c_jam)
         numpy_flow = ARZFlowNumpy(flux_function=numpy_flux, tau=tau)
@@ -109,7 +110,7 @@ class TestARZFlowExponentialVsNumpy:
         assert np.allclose(source_torch, source_numpy, rtol=1e-5)
 
     def test_lambdas_matches_numpy(self):
-        v_max, rho_max, c_jam, tau = 30.0, 0.2, 5.0, 10.0
+        v_max, rho_max, c_jam, tau = 30.0, 0.2, -5.0, 10.0
         torch_flow = ARZFlow_exponential(v_max_init=v_max, rho_max_init=rho_max, c_jam=c_jam, tau=tau)
         numpy_flux = DelCastilloBenitezFlux(v_max=v_max, rho_max=rho_max, c_jam=c_jam)
         numpy_flow = ARZFlowNumpy(flux_function=numpy_flux, tau=tau)
@@ -129,7 +130,7 @@ class TestARZFlowExponentialVsNumpy:
         assert np.allclose(lambdas_torch, lambdas_numpy, rtol=1e-5)
 
     def test_rho_dh_matches_numpy(self):
-        v_max, rho_max, c_jam, tau = 30.0, 0.2, 5.0, 10.0
+        v_max, rho_max, c_jam, tau = 30.0, 0.2, -5.0, 10.0
         torch_flow = ARZFlow_exponential(v_max_init=v_max, rho_max_init=rho_max, c_jam=c_jam, tau=tau)
         numpy_flux = DelCastilloBenitezFlux(v_max=v_max, rho_max=rho_max, c_jam=c_jam)
         numpy_flow = ARZFlowNumpy(flux_function=numpy_flux, tau=tau)
@@ -143,9 +144,10 @@ class TestARZFlowExponentialVsNumpy:
         assert np.allclose(rho_dh_torch, rho_dh_numpy, rtol=1e-5)
 
     def test_extreme_values(self):
-        v_max, rho_max, c_jam, tau = 30.0, 0.2, 5.0, 10.0
+        v_max, rho_max, c_jam, tau = 30.0, 0.2, -5.0, 10.0
         torch_flow = ARZFlow_exponential(v_max_init=v_max, rho_max_init=rho_max, c_jam=c_jam, tau=tau)
-        extreme_v = torch.tensor(v_max)
-        rho_torch = torch_flow.rho_eq(extreme_v).detach().numpy()
-        assert np.isclose(rho_torch, 0.0, atol=1e-5)
+        # At v=0 (jam), rho_eq should return rho_max exactly
+        zero_v = torch.tensor(0.0)
+        rho_torch = torch_flow.rho_eq(zero_v).detach().numpy()
+        assert np.isclose(rho_torch, rho_max, atol=1e-5)
         

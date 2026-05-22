@@ -2,7 +2,7 @@ import numpy as np
 import polars as pl
 
 from traffic_models.flows import GreenshieldsFlow
-from traffic_models.sim import DiscretizationGrid
+from traffic_models.sim import DiscretizationGrid, RampConfig
 from traffic_models.var_optim import FourDVarConfig, windowed_w4DVAR
 
 
@@ -32,7 +32,7 @@ def test_w4dvar_runs_and_shapes():
     
     v_0 = np.ones(grid.n_cells)*1.0
     v_0[:2] = 0.0
-    v_pred, _, _ = windowed_w4DVAR(
+    result = windowed_w4DVAR(
         trajectories=trajectories,
         v_0 = v_0,
         conf=FourDVarConfig(
@@ -45,6 +45,10 @@ def test_w4dvar_runs_and_shapes():
         grid=grid,
         flow=flow,
         window_seconds=2,
+        ramp_config=RampConfig(
+            on_ramps_index=np.array([], dtype=int),
+            off_ramps_index=np.array([], dtype=int),
+        ),
     )
 
-    assert v_pred.shape == (n_timesteps, n_cells)
+    assert result.velocity_hat.shape == (n_timesteps, n_cells)
