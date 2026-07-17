@@ -1,5 +1,7 @@
 # 4DVar for Traffic Smoothing
 
+Code for our [ITSC2026 paper](https://hal.science/hal-05649935/document) on traffic data assimilation with probe vehicles.
+
 ![Traffic Flow Visualization](output_plots/fourdvar_mobile-century_20pc.gif)
 
 *Traffic state reconstruction with 4DVar*
